@@ -1,0 +1,1231 @@
+year,sex,age_group,cause,icd10_code,deaths,crude_rate,mean_age,yll_16_64,yll_u75,yll_rate,age_band
+2024,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",566056,924.8,79,1053,2313,4174.7,NA
+2024,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",177,0.3,66,1,2,4,NA
+2024,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",135,0.2,61,1,2,4,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6929,11.3,74,10,32,57.9,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3072,5,74,7,17,31.1,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8791,14.4,77,15,38,69.1,NA
+2024,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,7279,11.9,74,17,42,75.4,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5894,9.6,75,9,27,49.1,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,9192,15,75,13,42,75.3,NA
+2024,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,27826,45.5,75,31,112,202.5,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2448,4,75,5,13,23.7,NA
+2024,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,1038,1.7,83,1,2,3.4,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,9913,16.2,73,32,71,128.8,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,740,1.2,63,6,11,19.1,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3225,5.3,73,7,19,33.7,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10636,17.4,82,3,16,28.2,NA
+2024,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3694,6,75,6,18,32.2,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,5226,8.5,80,3,12,21.3,NA
+2024,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3985,6.5,66,23,45,80.8,NA
+2024,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4421,7.2,77,6,16,29.4,NA
+2024,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2821,4.6,79,2,8,13.6,NA
+2024,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4735,7.7,76,12,23,42.3,NA
+2024,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,7975,13,79,15,32,58.4,NA
+2024,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",41974,68.6,88,1,7,13.3,NA
+2024,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",147,0.2,46,3,4,7.7,NA
+2024,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1958,3.2,72,4,12,20.8,NA
+2024,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,26299,43,87,1,6,11.2,NA
+2024,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1331,2.2,70,3,10,17.4,NA
+2024,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,54097,88.4,77,81,230,414.9,NA
+2024,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29207,47.7,81,29,75,134.7,NA
+2024,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,2059,3.4,79,4,8,14.7,NA
+2024,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,21002,34.3,84,18,42,76.4,NA
+2024,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,27999,45.7,78,19,76,137.5,NA
+2024,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1206,2,77,4,8,13.5,NA
+2024,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1409,2.3,75,3,8,14.2,NA
+2024,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,9922,16.2,63,68,137,246.7,NA
+2024,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1447,2.4,51,27,38,68.7,NA
+2024,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,4935,8.1,47,93,140,252.5,NA
+2024,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,5489,9,48,102,151,272.4,NA
+2024,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",6198,10.1,48,117,172,310.4,NA
+2024,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",6627,10.8,83,4,12,21.7,NA
+2024,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",288294,961.7,77,657,1415,5158.3,NA
+2024,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",117,0.4,65,1,2,5.5,NA
+2024,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",65,0.2,62,1,1,3.7,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4880,16.3,74,8,24,88,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1995,6.7,74,4,11,39.6,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4490,15,76,8,21,75.1,NA
+2024,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,4251,14.2,74,10,25,89.5,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3556,11.9,74,6,17,62.4,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4724,15.8,74,8,24,88.3,NA
+2024,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,14415,48.1,75,17,61,222,NA
+2024,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1447,4.8,75,3,7,26.2,NA
+2024,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,691,2.3,82,0,1,4.5,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,69,0.2,76,0,0,1.1,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10636,35.5,82,3,16,56.9,NA
+2024,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2367,7.9,74,4,13,45.7,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3602,12,80,2,8,28.1,NA
+2024,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2360,7.9,65,14,28,100.8,NA
+2024,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2532,8.4,76,4,10,37.7,NA
+2024,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1621,5.4,78,1,5,17.5,NA
+2024,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2845,9.5,75,7,15,52.9,NA
+2024,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,4293,14.3,77,9,20,74.3,NA
+2024,Male,All ages (excluding under 1),Dementia,"F01, F03",15948,53.2,86,0,4,14.3,NA
+2024,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",109,0.4,46,2,3,11.5,NA
+2024,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1103,3.7,72,2,6,23.3,NA
+2024,Male,All ages (excluding under 1),Alzheimer disease,G30,8978,29.9,86,0,3,10,NA
+2024,Male,All ages (excluding under 1),Multiple sclerosis,G35,453,1.5,69,1,3,12.5,NA
+2024,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,36122,120.5,75,64,180,654.8,NA
+2024,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13256,44.2,79,16,42,154.4,NA
+2024,Male,All ages (excluding under 1),Influenza,J09 to J11,947,3.2,78,2,4,13.9,NA
+2024,Male,All ages (excluding under 1),Pneumonia,J12 to J18,10523,35.1,83,11,26,95.7,NA
+2024,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14327,47.8,78,11,42,152.7,NA
+2024,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,388,1.3,73,2,3,12.2,NA
+2024,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,860,2.9,73,2,6,20.3,NA
+2024,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5996,20,62,42,84,305.3,NA
+2024,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1118,3.7,48,22,31,114.4,NA
+2024,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3419,11.4,46,67,100,364.7,NA
+2024,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,4133,13.8,48,76,113,410.1,NA
+2024,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4600,15.3,48,86,126,460.7,NA
+2024,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",3662,12.2,82,2,7,24.8,NA
+2024,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",277762,889.5,81,397,898,3209.7,NA
+2024,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",60,0.2,68,0,1,2.4,NA
+2024,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",70,0.2,60,1,1,4.3,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2049,6.6,76,2,8,28.5,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1077,3.4,74,3,6,22.7,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4301,13.8,78,7,18,63.2,NA
+2024,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3028,9.7,75,7,17,61.6,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2338,7.5,76,4,10,36,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4468,14.3,76,5,18,62.6,NA
+2024,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13411,42.9,76,14,51,183.5,NA
+2024,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,1001,3.2,74,3,6,21.2,NA
+2024,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,347,1.1,85,0,1,2.2,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,9844,31.5,73,32,71,254,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,740,2.4,63,6,11,37.8,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3225,10.3,73,7,19,66.8,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2024,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1327,4.2,77,2,5,19,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1624,5.2,80,1,4,14.7,NA
+2024,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1625,5.2,67,9,17,61.2,NA
+2024,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1889,6,78,2,6,21.3,NA
+2024,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1200,3.8,80,1,3,9.7,NA
+2024,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1890,6.1,77,5,9,31.9,NA
+2024,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3682,11.8,82,6,12,42.7,NA
+2024,Female,All ages (excluding under 1),Dementia,"F01, F03",26026,83.3,89,0,3,12.3,NA
+2024,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",38,0.1,46,1,1,3.9,NA
+2024,Female,All ages (excluding under 1),Motor neuron disease,G12.2,855,2.7,72,2,5,18.4,NA
+2024,Female,All ages (excluding under 1),Alzheimer disease,G30,17321,55.5,88,0,3,12.4,NA
+2024,Female,All ages (excluding under 1),Multiple sclerosis,G35,878,2.8,71,2,6,22.2,NA
+2024,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,17975,57.6,81,16,50,179.5,NA
+2024,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,15951,51.1,83,13,32,115.4,NA
+2024,Female,All ages (excluding under 1),Influenza,J09 to J11,1112,3.6,80,2,4,15.4,NA
+2024,Female,All ages (excluding under 1),Pneumonia,J12 to J18,10479,33.6,86,7,16,57.5,NA
+2024,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13672,43.8,79,8,34,122.5,NA
+2024,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,818,2.6,79,2,4,14.9,NA
+2024,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,549,1.8,78,1,2,8.2,NA
+2024,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3926,12.6,63,27,53,189.3,NA
+2024,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,329,1.1,59,5,7,24,NA
+2024,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1516,4.9,49,26,40,142.4,NA
+2024,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1356,4.3,47,27,38,137.2,NA
+2024,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1598,5.1,47,32,46,163,NA
+2024,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",2965,9.5,83,2,5,18.6,NA
+2023,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",578856,956.9,79,1080,2371,4322.5,NA
+2023,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",194,0.3,68,1,2,3.8,NA
+2023,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",169,0.3,58,2,3,5.9,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6783,11.2,74,10,33,60,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3185,5.3,74,7,17,31.7,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8803,14.6,77,16,39,70.4,NA
+2023,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,7168,11.8,74,16,39,71.9,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5633,9.3,74,9,27,48.9,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,9171,15.2,75,13,42,76.2,NA
+2023,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,27923,46.2,75,32,116,210.8,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2471,4.1,74,6,14,25,NA
+2023,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,1030,1.7,82,1,2,4.5,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,9995,16.5,73,34,73,133.5,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,764,1.3,64,6,10,19.1,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3330,5.5,73,7,19,35,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,11080,18.3,82,3,16,30,NA
+2023,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3682,6.1,75,6,18,33.5,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,5212,8.6,80,4,12,22.7,NA
+2023,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,4005,6.6,66,23,46,83,NA
+2023,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4574,7.6,76,7,19,34.1,NA
+2023,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2783,4.6,78,2,8,14.2,NA
+2023,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4392,7.3,76,11,23,41.3,NA
+2023,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,8137,13.5,79,15,34,61.2,NA
+2023,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",42354,70,88,1,7,13.4,NA
+2023,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",145,0.2,44,3,4,8.1,NA
+2023,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1924,3.2,72,4,11,20.2,NA
+2023,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,24522,40.5,87,1,6,11.5,NA
+2023,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1474,2.4,70,4,11,20.1,NA
+2023,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,57895,95.7,77,84,239,436.1,NA
+2023,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29474,48.7,81,31,77,140.1,NA
+2023,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,2179,3.6,80,4,8,13.9,NA
+2023,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,22061,36.5,84,18,43,79.2,NA
+2023,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,28803,47.6,78,19,77,140.7,NA
+2023,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1279,2.1,78,4,7,12.2,NA
+2023,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1627,2.7,74,4,10,18.1,NA
+2023,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,10725,17.7,62,75,151,275.2,NA
+2023,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1332,2.2,50,26,36,65.1,NA
+2023,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,4927,8.1,47,93,140,254.9,NA
+2023,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,5450,9,48,101,149,272.1,NA
+2023,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",6077,10,48,114,168,305.6,NA
+2023,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",11837,19.6,83,8,22,39.9,NA
+2023,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",293967,992.7,77,676,1455,5360.9,NA
+2023,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",134,0.5,68,1,1,5.4,NA
+2023,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",93,0.3,58,1,2,6.4,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4761,16.1,73,8,25,92.4,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2058,6.9,74,4,11,41.2,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4496,15.2,76,8,22,79.2,NA
+2023,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,4120,13.9,74,8,23,83.2,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3425,11.6,73,6,18,64.7,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4747,16,74,8,24,88.3,NA
+2023,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,14510,49,75,17,62,228.4,NA
+2023,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1468,5,75,3,8,27.6,NA
+2023,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,698,2.4,81,1,2,6.1,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,82,0.3,78,0,0,1.1,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,11080,37.4,82,3,16,60.6,NA
+2023,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2418,8.2,74,5,13,48.4,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3631,12.3,80,2,8,28.9,NA
+2023,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2360,8,65,14,28,101.6,NA
+2023,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2620,8.8,75,5,12,43.6,NA
+2023,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1577,5.3,78,1,5,17.2,NA
+2023,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2594,8.8,75,7,14,51.4,NA
+2023,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,4371,14.8,77,10,22,80.4,NA
+2023,Male,All ages (excluding under 1),Dementia,"F01, F03",15794,53.3,86,0,4,13.8,NA
+2023,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",110,0.4,45,2,3,12.2,NA
+2023,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1056,3.6,71,2,7,24.1,NA
+2023,Male,All ages (excluding under 1),Alzheimer disease,G30,8200,27.7,86,0,3,9.6,NA
+2023,Male,All ages (excluding under 1),Multiple sclerosis,G35,531,1.8,68,2,5,17,NA
+2023,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,38376,129.6,75,67,187,687.3,NA
+2023,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13288,44.9,79,18,44,162.9,NA
+2023,Male,All ages (excluding under 1),Influenza,J09 to J11,983,3.3,79,2,4,14.3,NA
+2023,Male,All ages (excluding under 1),Pneumonia,J12 to J18,10893,36.8,83,11,26,97.1,NA
+2023,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14684,49.6,78,11,42,156.5,NA
+2023,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,414,1.4,75,2,3,11.2,NA
+2023,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,960,3.2,72,3,7,24.5,NA
+2023,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,6624,22.4,62,47,95,349.7,NA
+2023,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1009,3.4,47,21,29,108,NA
+2023,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3467,11.7,46,67,101,371.9,NA
+2023,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,4078,13.8,48,76,112,412.9,NA
+2023,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4509,15.2,48,85,125,459.4,NA
+2023,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",6450,21.8,82,4,12,44.5,NA
+2023,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",284889,922.5,81,404,916,3305,NA
+2023,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",60,0.2,69,0,1,2.2,NA
+2023,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",76,0.2,57,1,1,5.4,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2022,6.5,77,2,8,28.2,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1127,3.6,75,3,6,22.5,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4307,13.9,78,7,17,61.8,NA
+2023,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3048,9.9,75,7,17,60.9,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2208,7.1,76,3,9,33.5,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4424,14.3,76,6,18,64.2,NA
+2023,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13413,43.4,75,14,54,193.5,NA
+2023,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,1003,3.2,74,3,6,22.4,NA
+2023,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,332,1.1,84,0,1,3,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,9913,32.1,73,33,73,263.2,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,764,2.5,64,6,10,37.7,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3330,10.8,73,7,19,69.4,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2023,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1264,4.1,76,2,5,18.9,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1581,5.1,79,2,5,16.6,NA
+2023,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1645,5.3,67,9,18,64.9,NA
+2023,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1954,6.3,78,3,7,24.9,NA
+2023,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1206,3.9,79,1,3,11.3,NA
+2023,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1798,5.8,77,4,9,31.4,NA
+2023,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3766,12.2,82,5,12,42.5,NA
+2023,Female,All ages (excluding under 1),Dementia,"F01, F03",26560,86,89,0,4,12.9,NA
+2023,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",35,0.1,43,1,1,4,NA
+2023,Female,All ages (excluding under 1),Motor neuron disease,G12.2,868,2.8,73,1,5,16.4,NA
+2023,Female,All ages (excluding under 1),Alzheimer disease,G30,16322,52.9,88,0,4,13.4,NA
+2023,Female,All ages (excluding under 1),Multiple sclerosis,G35,943,3.1,71,2,6,23.2,NA
+2023,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,19519,63.2,81,17,53,190,NA
+2023,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,16186,52.4,83,13,33,117.7,NA
+2023,Female,All ages (excluding under 1),Influenza,J09 to J11,1196,3.9,82,2,4,13.5,NA
+2023,Female,All ages (excluding under 1),Pneumonia,J12 to J18,11168,36.2,86,7,17,61.6,NA
+2023,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14119,45.7,79,8,35,125.2,NA
+2023,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,865,2.8,80,2,4,13.1,NA
+2023,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,667,2.2,76,1,3,11.9,NA
+2023,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,4101,13.3,63,28,56,202.2,NA
+2023,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,323,1,58,4,6,23,NA
+2023,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1460,4.7,49,25,39,140.2,NA
+2023,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1372,4.4,49,25,37,134.2,NA
+2023,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1568,5.1,48,29,43,154.8,NA
+2023,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",5387,17.4,84,4,10,35.4,NA
+2022,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",574749,963.5,79,1061,2335,4309.8,NA
+2022,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",184,0.3,67,1,2,3.8,NA
+2022,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",105,0.2,58,1,2,3.7,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,7009,11.7,74,11,34,62.8,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3230,5.4,74,7,18,33,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8744,14.7,77,15,39,71.3,NA
+2022,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,7000,11.7,74,16,40,73,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5285,8.9,74,9,26,47.7,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,9065,15.2,75,13,42,77.8,NA
+2022,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,28570,47.9,75,32,117,215.6,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2219,3.7,74,6,13,24.5,NA
+2022,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,966,1.6,82,1,2,4,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10021,16.8,73,33,72,132,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,789,1.3,63,6,11,21.2,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3386,5.7,73,8,21,38.1,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,11012,18.5,82,3,16,29.8,NA
+2022,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3682,6.2,75,7,19,34.3,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,5215,8.7,80,3,12,22.1,NA
+2022,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,4026,6.7,66,23,45,83.2,NA
+2022,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4356,7.3,76,6,17,31.8,NA
+2022,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2851,4.8,78,2,9,15.9,NA
+2022,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4479,7.5,76,11,22,41.4,NA
+2022,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,8015,13.4,80,14,30,56,NA
+2022,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",42493,71.2,88,1,7,13.6,NA
+2022,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",133,0.2,45,3,4,7.3,NA
+2022,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1924,3.2,72,3,11,20.1,NA
+2022,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,23474,39.4,87,1,6,11.7,NA
+2022,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1395,2.3,70,4,11,20,NA
+2022,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,59356,99.5,77,86,241,445.4,NA
+2022,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29265,49.1,82,29,73,135.6,NA
+2022,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,990,1.7,79,2,4,8,NA
+2022,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,19264,32.3,85,14,35,64.6,NA
+2022,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,26760,44.9,78,17,70,129.2,NA
+2022,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1236,2.1,78,4,7,13.5,NA
+2022,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1649,2.8,76,4,9,16.2,NA
+2022,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,10499,17.6,62,76,151,278.6,NA
+2022,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1283,2.2,48,26,36,66.4,NA
+2022,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,4403,7.4,46,87,129,237.7,NA
+2022,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,5032,8.4,48,96,141,259.5,NA
+2022,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5654,9.5,47,109,159,294.3,NA
+2022,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",22445,37.6,82,24,58,107,NA
+2022,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",290680,996,77,658,1424,5310.9,NA
+2022,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",115,0.4,66,1,1,5.1,NA
+2022,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",55,0.2,53,1,1,4.8,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4913,16.8,73,8,27,99.2,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2090,7.2,74,5,12,44.6,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4465,15.3,76,8,21,76.9,NA
+2022,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,4104,14.1,74,9,23,84.5,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3243,11.1,73,5,17,62.8,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4548,15.6,74,7,23,86.4,NA
+2022,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,14855,50.9,75,17,62,232.9,NA
+2022,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1315,4.5,74,3,8,28.7,NA
+2022,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,651,2.2,81,0,1,5.3,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,72,0.2,76,0,0,1.1,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,11012,37.7,82,3,16,60.3,NA
+2022,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2400,8.2,74,5,13,48.8,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3573,12.2,80,2,8,28.7,NA
+2022,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2383,8.2,65,14,27,102,NA
+2022,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2453,8.4,75,4,11,41.3,NA
+2022,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1555,5.3,77,2,5,19.9,NA
+2022,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2681,9.2,75,6,13,50.2,NA
+2022,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,4201,14.4,78,9,19,72,NA
+2022,Male,All ages (excluding under 1),Dementia,"F01, F03",15542,53.3,86,0,4,14.3,NA
+2022,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",100,0.3,46,2,3,11,NA
+2022,Male,All ages (excluding under 1),Motor neuron disease,G12.2,999,3.4,72,2,6,22.5,NA
+2022,Male,All ages (excluding under 1),Alzheimer disease,G30,7790,26.7,86,0,3,10.1,NA
+2022,Male,All ages (excluding under 1),Multiple sclerosis,G35,497,1.7,67,2,5,17.2,NA
+2022,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,38730,132.7,75,69,189,704.8,NA
+2022,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13042,44.7,79,17,42,156.6,NA
+2022,Male,All ages (excluding under 1),Influenza,J09 to J11,448,1.5,77,1,2,8.5,NA
+2022,Male,All ages (excluding under 1),Pneumonia,J12 to J18,9477,32.5,83,8,21,77,NA
+2022,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13527,46.3,78,9,37,139.7,NA
+2022,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,405,1.4,73,2,4,13.2,NA
+2022,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,977,3.3,74,3,6,22,NA
+2022,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,6356,21.8,61,47,94,349.9,NA
+2022,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1003,3.4,46,22,30,111.2,NA
+2022,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3035,10.4,45,62,91,340.6,NA
+2022,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3773,12.9,48,72,105,392.7,NA
+2022,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4189,14.4,47,81,118,441.6,NA
+2022,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",12219,41.9,81,14,34,127,NA
+2022,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",284069,932.4,81,403,912,3329.5,NA
+2022,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",69,0.2,70,0,1,2.5,NA
+2022,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",50,0.2,64,0,1,2.7,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2096,6.9,77,2,7,27.2,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1140,3.7,75,2,6,21.6,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4279,14,78,8,18,65.7,NA
+2022,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2896,9.5,75,7,17,61.7,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2042,6.7,75,3,9,32.8,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4517,14.8,76,6,19,69.3,NA
+2022,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13715,45,75,14,54,198.6,NA
+2022,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,904,3,74,3,6,20.5,NA
+2022,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,315,1,83,0,1,2.8,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,9949,32.7,73,33,71,260.2,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,789,2.6,63,6,11,42,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3386,11.1,73,8,21,75.4,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2022,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1282,4.2,76,2,6,20.2,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1642,5.4,80,1,4,15.6,NA
+2022,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1643,5.4,67,9,18,64.7,NA
+2022,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1903,6.2,78,2,6,22.6,NA
+2022,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1296,4.3,79,1,3,11.9,NA
+2022,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1798,5.9,76,5,9,32.9,NA
+2022,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3814,12.5,82,5,11,40.3,NA
+2022,Female,All ages (excluding under 1),Dementia,"F01, F03",26951,88.5,89,0,4,13,NA
+2022,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",33,0.1,44,1,1,3.8,NA
+2022,Female,All ages (excluding under 1),Motor neuron disease,G12.2,925,3,73,1,5,17.8,NA
+2022,Female,All ages (excluding under 1),Alzheimer disease,G30,15684,51.5,88,0,4,13.2,NA
+2022,Female,All ages (excluding under 1),Multiple sclerosis,G35,898,2.9,71,2,6,22.7,NA
+2022,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,20626,67.7,81,17,52,191.3,NA
+2022,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,16223,53.2,83,13,32,115.1,NA
+2022,Female,All ages (excluding under 1),Influenza,J09 to J11,542,1.8,80,1,2,7.5,NA
+2022,Female,All ages (excluding under 1),Pneumonia,J12 to J18,9787,32.1,86,6,14,52.5,NA
+2022,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13233,43.4,79,8,33,119,NA
+2022,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,831,2.7,80,2,4,13.9,NA
+2022,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,672,2.2,78,1,3,10.5,NA
+2022,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,4143,13.6,63,29,57,208.8,NA
+2022,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,280,0.9,56,4,6,22.6,NA
+2022,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1368,4.5,48,25,37,137,NA
+2022,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1259,4.1,48,24,35,129.1,NA
+2022,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1465,4.8,48,28,41,150.1,NA
+2022,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",10226,33.6,83,10,24,87.3,NA
+2021,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",583836,988.7,79,1112,2463,4574.6,NA
+2021,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",168,0.3,68,1,2,3.3,NA
+2021,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",83,0.1,60,1,1,2.7,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6876,11.6,74,10,34,62.8,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3331,5.6,74,7,18,33.7,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8454,14.3,77,14,37,68,NA
+2021,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6855,11.6,74,16,39,71.9,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5387,9.1,74,9,27,50.4,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8846,15,75,13,41,76.5,NA
+2021,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,28190,47.7,75,32,120,222.6,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2141,3.6,74,6,13,24.4,NA
+2021,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,903,1.5,81,1,2,4.5,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,9693,16.4,73,34,72,134.5,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,755,1.3,62,7,11,21.2,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3330,5.6,73,7,20,36.3,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10367,17.6,81,3,16,29.6,NA
+2021,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3580,6.1,74,7,19,34.9,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,4950,8.4,80,4,12,21.5,NA
+2021,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3873,6.6,66,22,43,80,NA
+2021,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4248,7.2,76,7,17,31.6,NA
+2021,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2832,4.8,78,2,8,15.2,NA
+2021,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4139,7,75,11,22,41.5,NA
+2021,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,7352,12.4,80,13,28,51.6,NA
+2021,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",39755,67.3,88,1,7,13,NA
+2021,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",119,0.2,43,3,4,7.1,NA
+2021,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1962,3.3,72,4,12,21.6,NA
+2021,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,21495,36.4,87,1,6,10.6,NA
+2021,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1241,2.1,69,4,10,18.7,NA
+2021,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,56959,96.5,77,86,238,442.4,NA
+2021,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29022,49.1,82,30,74,137.9,NA
+2021,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,34,0.1,65,0,1,1,NA
+2021,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,16205,27.4,85,12,29,54.3,NA
+2021,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,23390,39.6,78,15,61,113.8,NA
+2021,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1146,1.9,79,3,6,10.6,NA
+2021,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1556,2.6,75,4,9,16.2,NA
+2021,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,10186,17.2,61,76,150,277.8,NA
+2021,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1291,2.2,50,25,35,64.2,NA
+2021,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,4366,7.4,45,88,130,241.4,NA
+2021,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4991,8.5,47,98,142,264.6,NA
+2021,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5593,9.5,47,110,160,297.2,NA
+2021,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",67348,114,79,104,260,483.3,NA
+2021,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",296575,1026.5,76,697,1516,5689.4,NA
+2021,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",107,0.4,67,1,1,4.6,NA
+2021,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",39,0.1,53,1,1,3.5,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4838,16.7,73,8,26,97.6,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2124,7.4,74,4,12,43.2,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4336,15,76,8,20,76.1,NA
+2021,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3998,13.8,74,9,23,85.1,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3248,11.2,73,6,17,65.2,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4449,15.4,73,7,23,86.9,NA
+2021,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,14801,51.2,74,18,65,243.9,NA
+2021,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1250,4.3,74,3,7,27.9,NA
+2021,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,592,2,81,1,2,5.8,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,72,0.2,77,0,0,1,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10367,35.9,81,3,16,59.8,NA
+2021,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2262,7.8,73,5,13,48.6,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3385,11.7,80,2,7,27.7,NA
+2021,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2286,7.9,65,13,26,98.6,NA
+2021,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2390,8.3,76,4,10,39.3,NA
+2021,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1635,5.7,78,1,5,18.4,NA
+2021,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2386,8.3,74,7,14,51.5,NA
+2021,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3754,13,77,8,17,65.7,NA
+2021,Male,All ages (excluding under 1),Dementia,"F01, F03",13919,48.2,86,0,4,13.4,NA
+2021,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",96,0.3,43,2,3,11.6,NA
+2021,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1081,3.7,71,2,7,25.2,NA
+2021,Male,All ages (excluding under 1),Alzheimer disease,G30,7081,24.5,86,0,2,9,NA
+2021,Male,All ages (excluding under 1),Multiple sclerosis,G35,429,1.5,68,2,4,14.8,NA
+2021,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,37094,128.4,75,69,186,699.8,NA
+2021,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,12906,44.7,79,18,44,163.9,NA
+2021,Male,All ages (excluding under 1),Influenza,J09 to J11,16,0.1,52,0,0,1.6,NA
+2021,Male,All ages (excluding under 1),Pneumonia,J12 to J18,7931,27.5,83,7,18,68,NA
+2021,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,12015,41.6,78,8,33,124.5,NA
+2021,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,390,1.3,75,2,3,10.2,NA
+2021,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,899,3.1,73,2,6,22,NA
+2021,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,6163,21.3,61,47,93,349.1,NA
+2021,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,979,3.4,48,20,28,104.4,NA
+2021,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3082,10.7,44,64,95,355.1,NA
+2021,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3733,12.9,47,73,106,396.9,NA
+2021,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4134,14.3,47,81,118,441.5,NA
+2021,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",36792,127.3,77,65,162,608.1,NA
+2021,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",287261,952.4,81,416,947,3482.8,NA
+2021,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",61,0.2,71,0,1,2,NA
+2021,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",44,0.1,67,0,1,1.9,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2038,6.8,77,2,8,28.8,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1207,4,75,3,7,24.5,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4118,13.7,78,7,16,60.1,NA
+2021,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2857,9.5,75,7,16,59,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2139,7.1,76,4,10,35.8,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4397,14.6,76,5,18,66.2,NA
+2021,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13389,44.4,75,15,55,201.8,NA
+2021,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,891,3,74,3,6,21,NA
+2021,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,311,1,83,0,1,3.2,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,9621,31.9,73,34,72,265.2,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,755,2.5,62,7,11,42,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3330,11,73,7,20,71.8,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2021,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1318,4.4,76,2,6,21.5,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1565,5.2,80,1,4,15.3,NA
+2021,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1587,5.3,67,9,17,61.7,NA
+2021,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1858,6.2,78,3,7,24,NA
+2021,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1197,4,79,1,3,12.1,NA
+2021,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1753,5.8,76,4,9,31.7,NA
+2021,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3598,11.9,82,5,10,37.9,NA
+2021,Female,All ages (excluding under 1),Dementia,"F01, F03",25836,85.7,89,0,3,12.6,NA
+2021,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",23,0.1,43,1,1,2.7,NA
+2021,Female,All ages (excluding under 1),Motor neuron disease,G12.2,881,2.9,73,2,5,18.1,NA
+2021,Female,All ages (excluding under 1),Alzheimer disease,G30,14414,47.8,88,0,3,12.1,NA
+2021,Female,All ages (excluding under 1),Multiple sclerosis,G35,812,2.7,70,2,6,22.6,NA
+2021,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,19865,65.9,81,17,52,190.3,NA
+2021,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,16116,53.4,84,12,31,112.4,NA
+2021,Female,All ages (excluding under 1),Influenza,J09 to J11,18,0.1,77,0,0,0.4,NA
+2021,Female,All ages (excluding under 1),Pneumonia,J12 to J18,8274,27.4,86,4,11,40.9,NA
+2021,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,11375,37.7,79,6,28,103.3,NA
+2021,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,756,2.5,80,1,3,11,NA
+2021,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,657,2.2,78,1,3,10.5,NA
+2021,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,4023,13.3,62,29,57,208,NA
+2021,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,312,1,56,5,7,24.9,NA
+2021,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1284,4.3,48,23,35,130,NA
+2021,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1258,4.2,46,26,37,135,NA
+2021,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1459,4.8,46,29,42,156,NA
+2021,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",30556,101.3,81,40,98,361.2,NA
+2020,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",605541,1029.8,79,1054,2372,4417.6,NA
+2020,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",194,0.3,69,1,2,3.6,NA
+2020,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",113,0.2,60,1,2,3.6,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6952,11.8,74,11,35,65.9,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3431,5.8,75,8,18,33.8,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8592,14.6,77,14,37,68.7,NA
+2020,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6814,11.6,74,15,38,71,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5444,9.3,74,9,27,50.9,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8830,15,74,14,43,79.3,NA
+2020,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,28745,48.9,75,35,126,233.8,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2143,3.6,73,6,14,25.4,NA
+2020,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,863,1.5,82,1,2,3.9,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10385,17.7,73,35,76,140.9,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,752,1.3,61,7,12,22,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3526,6,73,8,22,40.1,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10971,18.7,81,3,17,31.1,NA
+2020,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3523,6,75,7,18,33.4,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,5054,8.6,80,3,11,20.9,NA
+2020,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3943,6.7,66,22,45,83.5,NA
+2020,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4389,7.5,76,6,18,32.7,NA
+2020,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2881,4.9,78,2,9,15.8,NA
+2020,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4102,7,75,11,22,41.6,NA
+2020,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,7485,12.7,80,13,28,52.8,NA
+2020,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",46390,78.9,88,1,8,15.6,NA
+2020,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",141,0.2,44,3,4,8.2,NA
+2020,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1887,3.2,72,4,11,21,NA
+2020,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,23657,40.2,87,1,6,12.1,NA
+2020,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1346,2.3,69,4,11,20.7,NA
+2020,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,55807,94.9,78,81,226,421.1,NA
+2020,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29728,50.6,82,29,74,137.6,NA
+2020,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,509,0.9,77,2,3,6,NA
+2020,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,19629,33.4,84,16,38,70.5,NA
+2020,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,25302,43,79,17,66,123.7,NA
+2020,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1336,2.3,78,4,7,13.2,NA
+2020,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1673,2.8,76,4,9,15.9,NA
+2020,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,9663,16.4,61,73,143,266.4,NA
+2020,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1180,2,52,21,29,54.6,NA
+2020,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,4079,6.9,45,82,121,225.7,NA
+2020,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4648,7.9,48,89,130,241.9,NA
+2020,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5230,8.9,48,100,146,272.4,NA
+2020,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",73766,125.4,81,66,186,347.2,NA
+2020,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",306736,1065.2,77,658,1458,5483.1,NA
+2020,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",127,0.4,66,1,1,5.6,NA
+2020,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",63,0.2,58,1,1,4.4,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4971,17.3,73,9,28,104.1,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2244,7.8,74,5,12,44,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4410,15.3,76,8,20,76.7,NA
+2020,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3999,13.9,74,8,22,84.5,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3332,11.6,73,6,17,65.4,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4499,15.6,73,8,24,88.9,NA
+2020,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,15292,53.1,74,19,68,254.8,NA
+2020,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1268,4.4,73,4,8,29.7,NA
+2020,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,560,1.9,81,1,1,5.2,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,98,0.3,77,0,0,1.5,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10971,38.1,81,3,17,62.8,NA
+2020,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2159,7.5,73,4,12,45.4,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3495,12.1,80,2,7,26.9,NA
+2020,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2312,8,65,14,28,105.6,NA
+2020,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2494,8.7,75,4,11,42.1,NA
+2020,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1612,5.6,77,1,5,19.4,NA
+2020,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2413,8.4,75,6,13,47.7,NA
+2020,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3866,13.4,77,8,18,69,NA
+2020,Male,All ages (excluding under 1),Dementia,"F01, F03",16384,56.9,86,0,4,16.4,NA
+2020,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",109,0.4,44,2,3,12.7,NA
+2020,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1045,3.6,71,2,7,26,NA
+2020,Male,All ages (excluding under 1),Alzheimer disease,G30,7741,26.9,86,0,3,9.8,NA
+2020,Male,All ages (excluding under 1),Multiple sclerosis,G35,489,1.7,68,2,4,15.8,NA
+2020,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,35905,124.7,75,66,179,671.9,NA
+2020,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13040,45.3,79,17,42,159.4,NA
+2020,Male,All ages (excluding under 1),Influenza,J09 to J11,239,0.8,75,1,2,6.2,NA
+2020,Male,All ages (excluding under 1),Pneumonia,J12 to J18,9422,32.7,83,10,24,88.9,NA
+2020,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13315,46.2,78,9,37,137.7,NA
+2020,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,424,1.5,75,2,3,11.3,NA
+2020,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,959,3.3,74,3,6,22.3,NA
+2020,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5907,20.5,61,45,89,333.2,NA
+2020,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,902,3.1,49,17,24,91.2,NA
+2020,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2898,10.1,44,61,89,334.8,NA
+2020,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3546,12.3,48,68,99,373.3,NA
+2020,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",3929,13.6,47,76,110,415.3,NA
+2020,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",40995,142.4,79,41,120,450.2,NA
+2020,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",298805,995.8,81,396,914,3372,NA
+2020,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",67,0.2,74,0,0,1.7,NA
+2020,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",50,0.2,63,0,1,2.8,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,1981,6.6,77,2,8,28.3,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1187,4,75,3,6,23.9,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4182,13.9,78,6,17,60.9,NA
+2020,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2815,9.4,75,7,16,57.9,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2112,7,75,4,10,36.7,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4331,14.4,75,6,19,69.8,NA
+2020,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13453,44.8,75,16,58,213.2,NA
+2020,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,875,2.9,74,3,6,21.2,NA
+2020,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,303,1,84,0,1,2.7,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10287,34.3,73,35,75,277.7,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,752,2.5,61,7,12,43.5,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3526,11.8,73,8,22,79.4,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2020,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1364,4.5,76,2,6,21.7,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1559,5.2,80,1,4,15.1,NA
+2020,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1631,5.4,67,8,17,61.7,NA
+2020,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1895,6.3,78,2,6,23.5,NA
+2020,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1269,4.2,78,1,3,12.4,NA
+2020,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1689,5.6,76,5,10,35.5,NA
+2020,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3619,12.1,82,4,10,36.8,NA
+2020,Female,All ages (excluding under 1),Dementia,"F01, F03",30006,100,89,0,4,14.8,NA
+2020,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",32,0.1,42,1,1,3.9,NA
+2020,Female,All ages (excluding under 1),Motor neuron disease,G12.2,842,2.8,73,1,4,16.1,NA
+2020,Female,All ages (excluding under 1),Alzheimer disease,G30,15916,53,88,0,4,14.3,NA
+2020,Female,All ages (excluding under 1),Multiple sclerosis,G35,857,2.9,69,3,7,25.6,NA
+2020,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,19902,66.3,82,15,47,174.9,NA
+2020,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,16688,55.6,84,12,31,116.2,NA
+2020,Female,All ages (excluding under 1),Influenza,J09 to J11,270,0.9,78,1,2,5.7,NA
+2020,Female,All ages (excluding under 1),Pneumonia,J12 to J18,10207,34,86,6,14,52.5,NA
+2020,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,11987,39.9,79,7,30,110,NA
+2020,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,912,3,80,2,4,15.1,NA
+2020,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,714,2.4,79,1,3,9.5,NA
+2020,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3756,12.5,62,28,54,200.9,NA
+2020,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,278,0.9,60,3,5,18.7,NA
+2020,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1181,3.9,48,21,32,118.7,NA
+2020,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1102,3.7,48,21,31,113,NA
+2020,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1301,4.3,48,24,36,132.1,NA
+2020,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",32771,109.2,83,25,67,246.2,NA
+2019,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",528287,900.4,79,986,2168,4040.5,NA
+2019,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",197,0.3,73,1,2,2.8,NA
+2019,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",176,0.3,60,2,3,5.7,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,7161,12.2,74,11,36,67,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3567,6.1,75,7,18,33.4,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8452,14.4,77,14,35,66.1,NA
+2019,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6848,11.7,74,15,38,71.7,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5276,9,74,9,27,49.9,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8650,14.7,75,12,40,74.1,NA
+2019,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,29463,50.2,75,35,127,236.5,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2085,3.6,73,6,14,26.1,NA
+2019,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,807,1.4,82,1,2,3.5,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10147,17.3,72,36,77,144.4,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,728,1.2,62,7,11,20.7,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3481,5.9,73,8,21,40,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10872,18.5,81,3,16,30.2,NA
+2019,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3722,6.3,75,6,19,35,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,4960,8.5,80,3,11,21.3,NA
+2019,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,4032,6.9,66,22,45,83.5,NA
+2019,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4310,7.3,76,7,19,35.7,NA
+2019,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2763,4.7,77,3,9,17.6,NA
+2019,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4540,7.7,75,13,25,46.5,NA
+2019,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,6528,11.1,79,12,26,48.5,NA
+2019,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",46024,78.4,88,1,8,14.1,NA
+2019,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",129,0.2,43,3,4,7.7,NA
+2019,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1994,3.4,72,4,12,21.9,NA
+2019,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,20400,34.8,87,1,5,9.6,NA
+2019,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1370,2.3,68,5,12,22.1,NA
+2019,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,55064,93.8,78,73,207,385.6,NA
+2019,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,29807,50.8,82,27,69,128.1,NA
+2019,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,1220,2.1,74,4,9,16.4,NA
+2019,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,25163,42.9,84,21,50,92.8,NA
+2019,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,27902,47.6,79,17,72,134.2,NA
+2019,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1280,2.2,79,4,6,11.6,NA
+2019,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1684,2.9,77,3,8,15,NA
+2019,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,8394,14.3,62,59,119,221.7,NA
+2019,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1501,2.6,50,28,40,74.5,NA
+2019,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3794,6.5,45,79,115,214.8,NA
+2019,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4832,8.2,47,95,138,256.6,NA
+2019,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5697,9.7,47,112,163,302.9,NA
+2019,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2019,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",263865,917.6,77,612,1320,4961.9,NA
+2019,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",120,0.4,72,1,1,4,NA
+2019,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",98,0.3,59,1,2,6.8,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4889,17,73,9,28,104.3,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2216,7.7,75,4,11,40.5,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4299,15,76,7,19,71.7,NA
+2019,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,4004,13.9,74,9,23,86.3,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3144,10.9,73,6,17,64.3,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4363,15.2,73,7,23,85.5,NA
+2019,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,15924,55.4,75,19,69,259.9,NA
+2019,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1218,4.2,73,3,8,29.5,NA
+2019,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,517,1.8,81,0,1,5,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,66,0.2,75,0,0,1,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10872,37.8,81,3,16,60.9,NA
+2019,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2362,8.2,73,5,13,50.5,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3414,11.9,80,2,8,28.3,NA
+2019,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2401,8.3,66,14,27,103.1,NA
+2019,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2459,8.6,75,5,12,44.9,NA
+2019,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1592,5.5,76,2,6,22.4,NA
+2019,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2725,9.5,74,8,16,58.5,NA
+2019,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3356,11.7,77,8,17,62.4,NA
+2019,Male,All ages (excluding under 1),Dementia,"F01, F03",16685,58,86,0,4,15.3,NA
+2019,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",102,0.4,43,2,3,12.2,NA
+2019,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1087,3.8,71,3,7,27.2,NA
+2019,Male,All ages (excluding under 1),Alzheimer disease,G30,6949,24.2,86,0,2,7.7,NA
+2019,Male,All ages (excluding under 1),Multiple sclerosis,G35,494,1.7,67,2,5,18.3,NA
+2019,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,34841,121.2,76,59,162,607.8,NA
+2019,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13114,45.6,80,16,40,148.8,NA
+2019,Male,All ages (excluding under 1),Influenza,J09 to J11,578,2,72,2,5,17.3,NA
+2019,Male,All ages (excluding under 1),Pneumonia,J12 to J18,11698,40.7,83,12,28,106.8,NA
+2019,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14261,49.6,78,10,39,146.7,NA
+2019,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,396,1.4,75,2,3,11.7,NA
+2019,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,955,3.3,74,2,6,21.5,NA
+2019,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5128,17.8,62,37,74,278.8,NA
+2019,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1095,3.8,48,22,31,116.7,NA
+2019,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2671,9.3,44,58,84,314.7,NA
+2019,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3721,12.9,47,73,106,398.6,NA
+2019,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4308,15,47,85,123,463.9,NA
+2019,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2019,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",264422,883.8,81,375,848,3134.5,NA
+2019,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",77,0.3,75,0,0,1.7,NA
+2019,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",78,0.3,61,1,1,4.8,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2272,7.6,77,2,8,30.2,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1351,4.5,76,3,7,26.3,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4153,13.9,78,7,16,60.5,NA
+2019,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2844,9.5,75,6,16,57.4,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2132,7.1,76,3,10,35.7,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4287,14.3,76,5,17,63,NA
+2019,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13539,45.3,75,16,58,213.5,NA
+2019,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,867,2.9,73,3,6,22.8,NA
+2019,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,290,1,85,0,1,2,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10081,33.7,72,36,77,285.3,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,728,2.4,62,7,11,41,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3481,11.6,73,8,21,79.4,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2019,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1360,4.5,77,2,5,19.8,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1546,5.2,80,1,4,14.4,NA
+2019,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1631,5.5,67,8,17,64.2,NA
+2019,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1851,6.2,77,3,7,26.6,NA
+2019,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1171,3.9,78,1,3,12.8,NA
+2019,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1815,6.1,76,5,9,34.8,NA
+2019,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3172,10.6,82,4,9,34.8,NA
+2019,Female,All ages (excluding under 1),Dementia,"F01, F03",29339,98.1,89,0,4,13,NA
+2019,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",27,0.1,42,1,1,3.3,NA
+2019,Female,All ages (excluding under 1),Motor neuron disease,G12.2,907,3,73,1,5,16.7,NA
+2019,Female,All ages (excluding under 1),Alzheimer disease,G30,13451,45,88,0,3,11.5,NA
+2019,Female,All ages (excluding under 1),Multiple sclerosis,G35,876,2.9,69,3,7,25.9,NA
+2019,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,20223,67.6,82,15,45,167,NA
+2019,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,16693,55.8,84,11,29,107.7,NA
+2019,Female,All ages (excluding under 1),Influenza,J09 to J11,642,2.1,76,2,4,15.5,NA
+2019,Female,All ages (excluding under 1),Pneumonia,J12 to J18,13465,45,86,10,21,79,NA
+2019,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13641,45.6,79,8,33,122,NA
+2019,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,884,3,81,2,3,11.6,NA
+2019,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,729,2.4,80,1,2,8.6,NA
+2019,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3266,10.9,63,23,45,165.6,NA
+2019,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,406,1.4,55,6,9,33,NA
+2019,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1123,3.8,47,21,32,116.5,NA
+2019,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1111,3.7,47,22,32,116.9,NA
+2019,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1389,4.6,47,27,39,144.6,NA
+2019,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2018,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",539018,923.8,79,1007,2213,4138.1,NA
+2018,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",225,0.4,74,1,2,2.9,NA
+2018,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",208,0.4,59,3,4,7.5,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,7008,12,74,11,36,67.4,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3663,6.3,75,7,19,35.5,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8220,14.1,77,14,36,67.2,NA
+2018,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6657,11.4,74,15,38,71.3,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,5056,8.7,74,8,25,47.5,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8544,14.6,74,13,42,78.5,NA
+2018,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,29626,50.8,74,37,134,249.8,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2116,3.6,73,6,14,27,NA
+2018,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,739,1.3,81,1,2,3.7,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10314,17.7,72,37,79,148.1,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,767,1.3,63,7,11,21.3,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3624,6.2,72,9,23,43.8,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10702,18.3,81,3,17,31.3,NA
+2018,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3552,6.1,74,7,19,35.2,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,4825,8.3,80,3,11,20.6,NA
+2018,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3999,6.9,65,25,48,90.5,NA
+2018,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4417,7.6,76,7,19,34.9,NA
+2018,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2776,4.8,77,3,9,17.4,NA
+2018,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4225,7.2,75,12,24,45.3,NA
+2018,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,6349,10.9,79,12,26,47.7,NA
+2018,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",49614,85,88,1,9,16,NA
+2018,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",144,0.2,41,3,5,9.1,NA
+2018,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1882,3.2,72,4,11,20.3,NA
+2018,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,19864,34,87,0,5,9.9,NA
+2018,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1372,2.4,67,5,13,24.8,NA
+2018,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,55995,96,78,76,214,399.5,NA
+2018,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,31278,53.6,82,28,71,133,NA
+2018,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,1596,2.7,79,4,7,13.2,NA
+2018,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,27910,47.8,85,22,52,97.7,NA
+2018,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,29016,49.7,79,17,74,138.8,NA
+2018,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1422,2.4,79,4,7,13.6,NA
+2018,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1806,3.1,76,4,9,17.6,NA
+2018,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,8273,14.2,62,60,119,222.7,NA
+2018,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1544,2.6,49,31,43,80.4,NA
+2018,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3814,6.5,44,82,119,222.5,NA
+2018,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4403,7.5,48,85,123,230.1,NA
+2018,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5430,9.3,47,106,153,286.5,NA
+2018,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2018,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",266520,931.5,76,630,1353,5098,NA
+2018,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",137,0.5,74,1,1,3.8,NA
+2018,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",116,0.4,56,2,2,9.3,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4874,17,73,9,28,105.5,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2363,8.3,74,5,12,46.9,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4159,14.5,76,7,19,73.3,NA
+2018,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3884,13.6,73,9,23,86.4,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3130,10.9,73,5,17,63.6,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4433,15.5,73,8,24,90.7,NA
+2018,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,16070,56.2,74,20,73,274.3,NA
+2018,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1276,4.5,72,4,9,32.4,NA
+2018,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,498,1.7,80,1,1,5.3,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,83,0.3,75,0,0,1.4,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10702,37.4,81,3,17,63.1,NA
+2018,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2220,7.8,73,5,13,48.4,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3304,11.5,80,2,7,26.9,NA
+2018,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2326,8.1,64,15,29,107.4,NA
+2018,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2504,8.8,75,5,12,44.1,NA
+2018,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1529,5.3,76,2,6,21.2,NA
+2018,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2474,8.6,74,7,15,55.2,NA
+2018,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3271,11.4,77,8,17,62.7,NA
+2018,Male,All ages (excluding under 1),Dementia,"F01, F03",17383,60.8,86,0,4,16.9,NA
+2018,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",104,0.4,41,2,4,13.2,NA
+2018,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1073,3.8,72,2,6,23.9,NA
+2018,Male,All ages (excluding under 1),Alzheimer disease,G30,6369,22.3,85,0,2,8.7,NA
+2018,Male,All ages (excluding under 1),Multiple sclerosis,G35,490,1.7,66,2,5,19.8,NA
+2018,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,35442,123.9,76,61,168,633.2,NA
+2018,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13457,47,80,16,40,149.4,NA
+2018,Male,All ages (excluding under 1),Influenza,J09 to J11,719,2.5,77,2,4,15.2,NA
+2018,Male,All ages (excluding under 1),Pneumonia,J12 to J18,12765,44.6,83,14,31,118,NA
+2018,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14850,51.9,78,9,40,152.1,NA
+2018,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,436,1.5,74,2,4,14.3,NA
+2018,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,989,3.5,73,3,7,24.8,NA
+2018,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5122,17.9,61,38,76,285.3,NA
+2018,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1169,4.1,46,26,35,132.2,NA
+2018,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2758,9.6,43,62,89,335.1,NA
+2018,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3379,11.8,48,65,95,356.2,NA
+2018,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4105,14.3,47,80,116,439,NA
+2018,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2018,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",272498,916.5,81,378,860,3192.6,NA
+2018,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",88,0.3,76,0,1,2,NA
+2018,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",92,0.3,62,1,2,5.6,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2134,7.2,77,2,8,29.9,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1300,4.4,76,3,7,24.4,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4061,13.7,78,7,17,61.2,NA
+2018,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2773,9.3,75,6,15,56.4,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,1926,6.5,76,3,9,31.7,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4111,13.8,76,6,18,66.4,NA
+2018,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13556,45.6,75,17,61,225.7,NA
+2018,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,840,2.8,73,3,6,21.7,NA
+2018,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,241,0.8,83,0,1,2.1,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10231,34.4,72,37,79,292.6,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,767,2.6,63,7,11,42.4,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3624,12.2,72,9,23,87,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2018,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1332,4.5,76,2,6,22.1,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1521,5.1,80,1,4,14.5,NA
+2018,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1673,5.6,66,10,20,73.8,NA
+2018,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1913,6.4,77,3,7,25.9,NA
+2018,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1247,4.2,78,1,4,13.8,NA
+2018,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1751,5.9,76,5,10,35.4,NA
+2018,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3078,10.4,82,4,9,33,NA
+2018,Female,All ages (excluding under 1),Dementia,"F01, F03",32231,108.4,89,0,4,15.1,NA
+2018,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",40,0.1,41,1,1,5.1,NA
+2018,Female,All ages (excluding under 1),Motor neuron disease,G12.2,809,2.7,73,2,5,16.7,NA
+2018,Female,All ages (excluding under 1),Alzheimer disease,G30,13495,45.4,88,0,3,11,NA
+2018,Female,All ages (excluding under 1),Multiple sclerosis,G35,882,3,68,3,8,29.6,NA
+2018,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,20553,69.1,82,15,46,169.4,NA
+2018,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,17821,59.9,84,12,31,116.7,NA
+2018,Female,All ages (excluding under 1),Influenza,J09 to J11,877,2.9,81,1,3,11.2,NA
+2018,Female,All ages (excluding under 1),Pneumonia,J12 to J18,15145,50.9,86,8,21,77.6,NA
+2018,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14166,47.6,79,8,34,125.8,NA
+2018,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,986,3.3,81,2,3,12.9,NA
+2018,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,817,2.7,80,1,3,10.5,NA
+2018,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3151,10.6,63,22,43,161.1,NA
+2018,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,375,1.3,57,6,8,29.4,NA
+2018,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,1056,3.6,47,20,30,111.5,NA
+2018,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,1024,3.4,48,20,29,105.8,NA
+2018,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1325,4.5,48,25,37,136.4,NA
+2018,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2017,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",530546,914.4,79,968,2149,4035.7,NA
+2017,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",229,0.4,73,1,2,3.2,NA
+2017,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",199,0.3,57,2,4,7.4,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6905,11.9,74,12,37,68.9,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3772,6.5,75,7,18,34.5,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8290,14.3,77,13,35,66.5,NA
+2017,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6613,11.4,74,14,37,69.1,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,4967,8.6,74,9,27,50.1,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8405,14.5,74,13,41,76.2,NA
+2017,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,30131,51.9,74,37,137,257.5,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2106,3.6,72,7,16,29.9,NA
+2017,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,1155,2,81,1,4,6.7,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10219,17.6,72,36,78,146.1,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,730,1.3,63,6,11,20.3,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3472,6,72,8,22,40.9,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10755,18.5,81,3,17,31.8,NA
+2017,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3545,6.1,74,7,20,37.9,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,5014,8.6,80,4,13,24,NA
+2017,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3821,6.6,65,23,46,85.9,NA
+2017,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4348,7.5,76,8,20,38.2,NA
+2017,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2756,4.8,77,3,10,18.2,NA
+2017,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4314,7.4,75,11,23,43.4,NA
+2017,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,6045,10.4,79,11,24,45,NA
+2017,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",49657,85.6,88,1,8,15.5,NA
+2017,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",118,0.2,44,3,4,7,NA
+2017,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1903,3.3,72,4,12,22.2,NA
+2017,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,17984,31,87,1,5,9.6,NA
+2017,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1328,2.3,68,5,12,23.3,NA
+2017,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,57923,99.8,79,75,211,395.6,NA
+2017,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,31701,54.6,83,28,70,131.5,NA
+2017,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,457,0.8,81,1,2,3.2,NA
+2017,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,27167,46.8,85,20,48,89.5,NA
+2017,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,28597,49.3,79,16,71,132.8,NA
+2017,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1319,2.3,79,4,7,13.5,NA
+2017,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1866,3.2,77,4,9,16.9,NA
+2017,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,8448,14.6,61,64,125,234.6,NA
+2017,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1556,2.7,49,30,42,79.8,NA
+2017,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3266,5.6,44,70,101,189.7,NA
+2017,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,3930,6.8,48,74,109,204.1,NA
+2017,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4853,8.4,48,93,136,255.6,NA
+2017,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2017,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",261161,917.2,76,602,1311,4954.8,NA
+2017,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",144,0.5,72,1,1,4.6,NA
+2017,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",112,0.4,53,2,3,9.9,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4812,16.9,72,9,28,106.8,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2444,8.6,75,4,12,45.7,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4302,15.1,76,7,20,74.3,NA
+2017,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3859,13.6,74,8,22,82.5,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,3029,10.6,73,6,18,66.6,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4258,15,73,7,23,86.8,NA
+2017,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,16251,57.1,74,20,75,283.5,NA
+2017,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1189,4.2,71,4,9,33.9,NA
+2017,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,768,2.7,79,1,3,10.2,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,72,0.3,74,0,0,1.6,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10755,37.8,81,3,17,64,NA
+2017,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2188,7.7,73,5,14,52.5,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3441,12.1,79,2,8,31.9,NA
+2017,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2224,7.8,64,14,28,106,NA
+2017,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2388,8.4,74,5,12,46.5,NA
+2017,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1519,5.3,76,2,6,22.8,NA
+2017,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2563,9,75,6,14,51.7,NA
+2017,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3023,10.6,77,7,15,54.9,NA
+2017,Male,All ages (excluding under 1),Dementia,"F01, F03",17375,61,86,0,5,17.6,NA
+2017,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",101,0.4,44,2,3,11.9,NA
+2017,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1059,3.7,71,2,7,26.5,NA
+2017,Male,All ages (excluding under 1),Alzheimer disease,G30,5734,20.1,86,0,2,7.5,NA
+2017,Male,All ages (excluding under 1),Multiple sclerosis,G35,485,1.7,66,2,5,18.9,NA
+2017,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,35895,126.1,76,61,166,627.7,NA
+2017,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13481,47.3,80,16,40,151.6,NA
+2017,Male,All ages (excluding under 1),Influenza,J09 to J11,209,0.7,79,0,1,3.5,NA
+2017,Male,All ages (excluding under 1),Pneumonia,J12 to J18,12430,43.7,83,12,28,105.5,NA
+2017,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14700,51.6,78,9,39,148.3,NA
+2017,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,370,1.3,76,2,3,10.6,NA
+2017,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,984,3.5,74,2,6,21.7,NA
+2017,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5194,18.2,61,40,78,295.9,NA
+2017,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1151,4,47,24,34,127.8,NA
+2017,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2316,8.1,43,51,74,280,NA
+2017,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3012,10.6,48,57,84,317.7,NA
+2017,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",3638,12.8,47,71,104,391.5,NA
+2017,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2017,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",269385,911.8,81,366,838,3128.2,NA
+2017,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",85,0.3,76,0,0,1.7,NA
+2017,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",87,0.3,63,1,1,4.9,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2093,7.1,77,3,8,31.4,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1328,4.5,76,3,6,23.6,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,3988,13.5,78,6,16,58.8,NA
+2017,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2754,9.3,75,6,15,55.8,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,1938,6.6,75,3,9,33.9,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4147,14,76,5,18,65.7,NA
+2017,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13880,47,75,17,62,231.8,NA
+2017,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,917,3.1,72,3,7,25.9,NA
+2017,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,387,1.3,84,0,1,3.2,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10147,34.3,72,36,77,288.9,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,730,2.5,63,6,11,40.3,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3472,11.8,72,8,22,81.2,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2017,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1357,4.6,76,2,6,23.5,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1573,5.3,80,2,4,16.3,NA
+2017,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1597,5.4,66,9,18,66,NA
+2017,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1960,6.6,77,3,8,30,NA
+2017,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1237,4.2,78,1,4,13.8,NA
+2017,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1751,5.9,76,5,9,35.3,NA
+2017,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,3022,10.2,82,4,9,35.1,NA
+2017,Female,All ages (excluding under 1),Dementia,"F01, F03",32282,109.3,89,0,4,13.4,NA
+2017,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",17,0.1,42,0,1,2.1,NA
+2017,Female,All ages (excluding under 1),Motor neuron disease,G12.2,844,2.9,72,1,5,17.9,NA
+2017,Female,All ages (excluding under 1),Alzheimer disease,G30,12250,41.5,88,0,3,11.6,NA
+2017,Female,All ages (excluding under 1),Multiple sclerosis,G35,843,2.9,68,3,7,27.6,NA
+2017,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,22028,74.6,83,14,45,166.4,NA
+2017,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,18220,61.7,84,12,30,111.7,NA
+2017,Female,All ages (excluding under 1),Influenza,J09 to J11,248,0.8,83,0,1,2.8,NA
+2017,Female,All ages (excluding under 1),Pneumonia,J12 to J18,14737,49.9,87,8,20,73.8,NA
+2017,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13897,47,80,7,32,117.6,NA
+2017,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,949,3.2,81,2,4,16.4,NA
+2017,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,882,3,79,1,3,12.3,NA
+2017,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3254,11,62,24,47,174.1,NA
+2017,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,405,1.4,56,6,9,32.4,NA
+2017,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,950,3.2,47,18,27,100.6,NA
+2017,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,918,3.1,49,17,25,91.9,NA
+2017,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1215,4.1,49,22,33,121.4,NA
+2017,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2016,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",522337,905.8,79,990,2185,4126.9,NA
+2016,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",262,0.5,74,1,2,3.6,NA
+2016,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",204,0.4,54,3,5,9,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6972,12.1,74,11,37,69.9,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3923,6.8,75,8,20,37.1,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8277,14.4,77,13,35,66.1,NA
+2016,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6415,11.1,74,14,36,67.4,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,4696,8.1,74,9,25,47.3,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,8315,14.4,74,12,40,76.2,NA
+2016,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,30570,53,74,40,143,270.7,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2080,3.6,71,8,16,31,NA
+2016,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,1211,2.1,80,1,4,7.9,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10250,17.8,72,37,80,151.4,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,725,1.3,63,6,11,20.6,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3693,6.4,72,9,24,45.6,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10455,18.1,81,3,17,32,NA
+2016,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3577,6.2,74,7,20,37.5,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,4737,8.2,80,3,12,22.7,NA
+2016,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3828,6.6,65,23,46,86.1,NA
+2016,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4375,7.6,76,8,20,38.4,NA
+2016,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2769,4.8,77,3,10,18.2,NA
+2016,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4227,7.3,74,12,25,47.1,NA
+2016,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,5680,9.8,79,11,22,42,NA
+2016,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",47153,81.8,88,1,8,15.2,NA
+2016,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",158,0.3,39,4,6,10.8,NA
+2016,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1804,3.1,72,3,11,20.2,NA
+2016,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,15795,27.4,87,1,5,9.3,NA
+2016,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1320,2.3,67,5,13,24.3,NA
+2016,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,57775,100.2,79,74,210,397.4,NA
+2016,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,32617,56.6,82,29,73,137.8,NA
+2016,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,423,0.7,65,3,6,10.9,NA
+2016,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,27060,46.9,85,23,54,101.1,NA
+2016,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,28249,49,79,16,72,135.8,NA
+2016,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1237,2.1,78,4,7,13.5,NA
+2016,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1861,3.2,77,4,9,16.6,NA
+2016,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,8217,14.2,61,63,122,230.8,NA
+2016,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1659,2.9,47,36,49,93.1,NA
+2016,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3186,5.5,44,70,101,190.4,NA
+2016,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4034,7,47,78,114,214.9,NA
+2016,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",4948,8.6,47,96,140,264.8,NA
+2016,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2016,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",256305,905.1,76,612,1324,5028.3,NA
+2016,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",154,0.5,72,1,1,4.9,NA
+2016,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",97,0.3,50,2,2,9.5,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4789,16.9,72,9,29,108.7,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2508,8.9,75,5,12,47.2,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4244,15,76,7,19,72.2,NA
+2016,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3692,13,74,8,21,79.7,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2826,10,73,6,17,62.8,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4251,15,73,8,24,91.5,NA
+2016,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,16705,59,74,21,78,296,NA
+2016,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1226,4.3,71,4,9,36.1,NA
+2016,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,796,2.8,79,1,3,11.2,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,72,0.3,72,0,0,1.7,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10455,36.9,81,3,17,64.3,NA
+2016,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2251,7.9,73,5,14,52.9,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3193,11.3,80,2,8,29.6,NA
+2016,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2196,7.8,65,13,27,102,NA
+2016,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2446,8.6,74,5,13,48.6,NA
+2016,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1505,5.3,76,2,6,21.5,NA
+2016,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2450,8.7,74,7,15,57.4,NA
+2016,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,2874,10.1,77,7,14,53,NA
+2016,Male,All ages (excluding under 1),Dementia,"F01, F03",16109,56.9,86,0,4,14.4,NA
+2016,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",121,0.4,39,3,4,16.5,NA
+2016,Male,All ages (excluding under 1),Motor neuron disease,G12.2,985,3.5,71,2,6,23.7,NA
+2016,Male,All ages (excluding under 1),Alzheimer disease,G30,5092,18,85,0,2,8.3,NA
+2016,Male,All ages (excluding under 1),Multiple sclerosis,G35,449,1.6,66,2,5,17.9,NA
+2016,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,35417,125.1,76,60,165,624.8,NA
+2016,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,13869,49,80,16,41,154.3,NA
+2016,Male,All ages (excluding under 1),Influenza,J09 to J11,232,0.8,64,2,3,11.9,NA
+2016,Male,All ages (excluding under 1),Pneumonia,J12 to J18,12305,43.5,83,13,31,116,NA
+2016,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14555,51.4,78,9,39,149,NA
+2016,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,394,1.4,74,2,3,11.4,NA
+2016,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1006,3.6,74,2,6,22.2,NA
+2016,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,5097,18,61,40,78,294.8,NA
+2016,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1250,4.4,44,29,40,150.1,NA
+2016,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2304,8.1,42,53,76,286.9,NA
+2016,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3120,11,47,61,89,337,NA
+2016,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",3775,13.3,47,75,108,411.3,NA
+2016,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2016,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",266032,906.4,81,378,861,3235.1,NA
+2016,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",108,0.4,77,0,1,2.2,NA
+2016,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",107,0.4,56,1,2,8.5,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2183,7.4,77,2,8,31.5,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1415,4.8,76,3,7,27.1,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4033,13.7,78,6,16,60.1,NA
+2016,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2723,9.3,75,6,15,55.2,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,1870,6.4,75,3,9,32,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,4064,13.8,76,5,16,61,NA
+2016,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13865,47.2,74,19,65,245.6,NA
+2016,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,854,2.9,72,3,7,26.1,NA
+2016,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,415,1.4,82,0,1,4.7,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10178,34.7,72,37,80,299.6,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,725,2.5,63,6,11,40.9,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3693,12.6,72,9,24,90.8,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2016,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1326,4.5,76,2,6,22.2,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1544,5.3,80,1,4,15.9,NA
+2016,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1632,5.6,66,10,19,70.3,NA
+2016,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1929,6.6,77,3,8,28.2,NA
+2016,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1264,4.3,78,1,4,14.9,NA
+2016,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1777,6.1,76,5,10,36.8,NA
+2016,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,2806,9.6,82,4,8,31.1,NA
+2016,Female,All ages (excluding under 1),Dementia,"F01, F03",31044,105.8,89,0,4,16,NA
+2016,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",37,0.1,39,1,1,5.1,NA
+2016,Female,All ages (excluding under 1),Motor neuron disease,G12.2,819,2.8,72,1,4,16.6,NA
+2016,Female,All ages (excluding under 1),Alzheimer disease,G30,10703,36.5,88,0,3,10.2,NA
+2016,Female,All ages (excluding under 1),Multiple sclerosis,G35,871,3,68,3,8,30.6,NA
+2016,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,22358,76.2,83,15,46,172.5,NA
+2016,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,18748,63.9,84,13,32,121.6,NA
+2016,Female,All ages (excluding under 1),Influenza,J09 to J11,191,0.7,66,2,3,9.9,NA
+2016,Female,All ages (excluding under 1),Pneumonia,J12 to J18,14755,50.3,86,10,23,86.2,NA
+2016,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,13694,46.7,79,7,33,122.9,NA
+2016,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,843,2.9,80,2,4,15.6,NA
+2016,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,855,2.9,80,1,3,11.1,NA
+2016,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3120,10.6,62,23,45,167.5,NA
+2016,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,409,1.4,53,7,10,36.6,NA
+2016,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,882,3,47,17,25,95,NA
+2016,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,914,3.1,48,17,25,94.1,NA
+2016,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1173,4,49,22,32,119.9,NA
+2016,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2015,Both Sexes,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",526934,921.4,79,976,2155,4103.2,NA
+2015,Both Sexes,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",313,0.5,73,1,2,4.5,NA
+2015,Both Sexes,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",202,0.4,59,2,4,7.4,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,6968,12.2,74,11,37,70.2,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of stomach,C16,3825,6.7,75,7,18,34.9,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of colon,C18,8334,14.6,77,13,36,68.6,NA
+2015,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,6109,10.7,74,13,34,64.6,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,4455,7.8,74,8,23,43.4,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,7965,13.9,74,12,40,76.1,NA
+2015,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,30520,53.4,74,40,145,275.6,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant melanoma of skin,C43,2210,3.9,71,9,18,34.1,NA
+2015,Both Sexes,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,666,1.2,81,1,2,3.8,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of breast,C50,10266,18,72,37,80,151.5,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,720,1.3,62,7,11,21,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3529,6.2,73,8,21,40.8,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10579,18.5,81,3,18,34,NA
+2015,Both Sexes,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,3488,6.1,74,7,20,37.9,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of bladder,C67,4748,8.3,80,4,12,23.3,NA
+2015,Both Sexes,All ages (excluding under 1),Malignant neoplasm of brain,C71,3682,6.4,65,22,44,83.5,NA
+2015,Both Sexes,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,4331,7.6,75,8,21,39.3,NA
+2015,Both Sexes,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,2657,4.6,77,3,9,17.5,NA
+2015,Both Sexes,All ages (excluding under 1),Leukaemia,C91 to C95,4140,7.2,75,11,23,43.9,NA
+2015,Both Sexes,All ages (excluding under 1),Diabetes mellitus,E10 to E14,5582,9.8,80,10,20,38.9,NA
+2015,Both Sexes,All ages (excluding under 1),Dementia,"F01, F03",47363,82.8,88,1,8,14.4,NA
+2015,Both Sexes,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",140,0.2,41,3,5,9,NA
+2015,Both Sexes,All ages (excluding under 1),Motor neuron disease,G12.2,1804,3.2,72,4,11,20.6,NA
+2015,Both Sexes,All ages (excluding under 1),Alzheimer disease,G30,14323,25,87,0,5,8.7,NA
+2015,Both Sexes,All ages (excluding under 1),Multiple sclerosis,G35,1295,2.3,67,5,13,24.3,NA
+2015,Both Sexes,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,60817,106.3,79,76,213,405.7,NA
+2015,Both Sexes,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,34880,61,83,28,72,136.2,NA
+2015,Both Sexes,All ages (excluding under 1),Influenza,J09 to J11,281,0.5,76,1,2,4.1,NA
+2015,Both Sexes,All ages (excluding under 1),Pneumonia,J12 to J18,29588,51.7,85,22,51,96.6,NA
+2015,Both Sexes,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,29066,50.8,79,15,68,129.2,NA
+2015,Both Sexes,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,1302,2.3,79,4,7,13.1,NA
+2015,Both Sexes,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1924,3.4,78,3,8,15.8,NA
+2015,Both Sexes,All ages (excluding under 1),Diseases of the liver,K70 to K77,7969,13.9,61,64,123,233.7,NA
+2015,Both Sexes,All ages (excluding under 1),Land transport accidents,V01 to V09,1644,2.9,48,34,47,90,NA
+2015,Both Sexes,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,3115,5.4,44,68,98,187,NA
+2015,Both Sexes,All ages (excluding under 1),Intentional self-harm,X60 to X84,4150,7.3,48,77,113,215.6,NA
+2015,Both Sexes,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",5208,9.1,48,99,144,275.1,NA
+2015,Both Sexes,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2015,Male,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",255624,909.8,76,604,1309,5009.2,NA
+2015,Male,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",188,0.7,72,1,2,6.1,NA
+2015,Male,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",106,0.4,53,2,2,9.4,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,4794,17.1,72,9,29,110.3,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of stomach,C16,2483,8.8,75,4,12,46.3,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of colon,C18,4240,15.1,75,7,20,75.7,NA
+2015,Male,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,3548,12.6,74,8,20,78.4,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,2648,9.4,73,5,15,56.9,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,3988,14.2,73,7,22,85.7,NA
+2015,Male,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,16572,59,74,21,78,298.4,NA
+2015,Male,All ages (excluding under 1),Malignant melanoma of skin,C43,1324,4.7,70,5,11,41,NA
+2015,Male,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,422,1.5,80,0,1,5,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of breast,C50,75,0.3,76,0,0,1.3,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,NA,NA,NA,NA,NA,NA,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of ovary,C56,NA,NA,NA,NA,NA,NA,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of prostate,C61,10579,37.7,81,3,18,68.3,NA
+2015,Male,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,2209,7.9,73,5,13,51.2,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of bladder,C67,3265,11.6,79,2,8,30.4,NA
+2015,Male,All ages (excluding under 1),Malignant neoplasm of brain,C71,2131,7.6,64,14,27,103.3,NA
+2015,Male,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,2383,8.5,74,5,13,48.1,NA
+2015,Male,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1471,5.2,76,2,6,21.7,NA
+2015,Male,All ages (excluding under 1),Leukaemia,C91 to C95,2427,8.6,74,7,14,53,NA
+2015,Male,All ages (excluding under 1),Diabetes mellitus,E10 to E14,2754,9.8,77,6,13,49.9,NA
+2015,Male,All ages (excluding under 1),Dementia,"F01, F03",15848,56.4,86,0,4,14.6,NA
+2015,Male,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",108,0.4,41,3,4,13.9,NA
+2015,Male,All ages (excluding under 1),Motor neuron disease,G12.2,1025,3.6,71,2,7,26.3,NA
+2015,Male,All ages (excluding under 1),Alzheimer disease,G30,4555,16.2,85,0,2,6.7,NA
+2015,Male,All ages (excluding under 1),Multiple sclerosis,G35,457,1.6,65,2,5,19.4,NA
+2015,Male,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,36731,130.7,76,61,166,636.2,NA
+2015,Male,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,14412,51.3,80,15,39,150.3,NA
+2015,Male,All ages (excluding under 1),Influenza,J09 to J11,127,0.5,75,0,1,3.4,NA
+2015,Male,All ages (excluding under 1),Pneumonia,J12 to J18,13105,46.6,83,13,30,116.6,NA
+2015,Male,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14768,52.6,79,8,37,140.8,NA
+2015,Male,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,364,1.3,75,2,3,11.4,NA
+2015,Male,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,1033,3.7,74,3,6,23.4,NA
+2015,Male,All ages (excluding under 1),Diseases of the liver,K70 to K77,4863,17.3,60,40,77,295.5,NA
+2015,Male,All ages (excluding under 1),Land transport accidents,V01 to V09,1228,4.4,46,27,37,142.8,NA
+2015,Male,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,2256,8,43,51,73,280.9,NA
+2015,Male,All ages (excluding under 1),Intentional self-harm,X60 to X84,3162,11.3,48,59,87,334.2,NA
+2015,Male,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",3906,13.9,47,76,110,422.3,NA
+2015,Male,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA
+2015,Female,All ages (excluding under 1),All causes,"A00 to R99, U00 to Y89",271310,932.5,81,372,845,3205.5,NA
+2015,Female,All ages (excluding under 1),"Tuberculosis, including sequelae","A15 to A19, B90",125,0.4,76,0,1,2.9,NA
+2015,Female,All ages (excluding under 1),Meningococcal infection and meningitis,"A39, G00 to G03",96,0.3,65,1,1,5.4,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of oesophagus,C15,2174,7.5,77,2,8,30.6,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of stomach,C16,1342,4.6,77,3,6,23.5,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of colon,C18,4094,14.1,78,6,16,61.6,NA
+2015,Female,All ages (excluding under 1),"Malignant neoplasm of rectosigmoid junction, rectum, and anus",C19 to C21,2561,8.8,76,5,13,51,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of liver and intra hepatic bile ducts,C22,1807,6.2,76,3,8,30,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of pancreas,C25,3977,13.7,76,5,18,66.7,NA
+2015,Female,All ages (excluding under 1),"Malignant neoplasm of trachea, bronchus and lung",C33 to C34,13948,47.9,74,19,67,253,NA
+2015,Female,All ages (excluding under 1),Malignant melanoma of skin,C43,886,3,72,4,7,27.3,NA
+2015,Female,All ages (excluding under 1),Other malignant neoplasm of the skin,C44,244,0.8,82,0,1,2.5,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of breast,C50,10191,35,72,37,79,300.4,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of cervix uteri,C53,720,2.5,62,7,11,41.7,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of ovary,C56,3529,12.1,73,8,21,81.3,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of prostate,C61,NA,NA,NA,NA,NA,NA,NA
+2015,Female,All ages (excluding under 1),"Malignant neoplasm of kidney, except pelvis",C64,1279,4.4,75,3,7,24.7,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of bladder,C67,1483,5.1,80,2,4,16.2,NA
+2015,Female,All ages (excluding under 1),Malignant neoplasm of brain,C71,1551,5.3,67,8,17,63.9,NA
+2015,Female,All ages (excluding under 1),Non-Hodgkins lymphoma,C82 to C85,1948,6.7,77,3,8,30.5,NA
+2015,Female,All ages (excluding under 1),Multiple myeloma and malignant plasma cell neoplasms,C90,1186,4.1,78,1,3,13.2,NA
+2015,Female,All ages (excluding under 1),Leukaemia,C91 to C95,1713,5.9,76,5,9,34.9,NA
+2015,Female,All ages (excluding under 1),Diabetes mellitus,E10 to E14,2828,9.7,82,3,7,28,NA
+2015,Female,All ages (excluding under 1),Dementia,"F01, F03",31515,108.3,89,0,4,14.2,NA
+2015,Female,All ages (excluding under 1),Mental and behavioural disorders due to psychoactive substance use,"F11 to F16, F18 to F19",32,0.1,40,1,1,4.2,NA
+2015,Female,All ages (excluding under 1),Motor neuron disease,G12.2,779,2.7,73,1,4,14.9,NA
+2015,Female,All ages (excluding under 1),Alzheimer disease,G30,9768,33.6,87,0,3,10.7,NA
+2015,Female,All ages (excluding under 1),Multiple sclerosis,G35,838,2.9,68,3,8,29.2,NA
+2015,Female,All ages (excluding under 1),Ischaemic heart diseases,I20 to I25,24086,82.8,83,15,47,177.3,NA
+2015,Female,All ages (excluding under 1),Cerebrovascular diseases,I60 to I69,20468,70.4,85,13,32,122.2,NA
+2015,Female,All ages (excluding under 1),Influenza,J09 to J11,154,0.5,76,1,1,4.7,NA
+2015,Female,All ages (excluding under 1),Pneumonia,J12 to J18,16483,56.7,87,9,20,76.7,NA
+2015,Female,All ages (excluding under 1),"Bronchitis, emphysema, and other chronic pulmonary disease",J40 to J44,14298,49.1,80,7,31,117.7,NA
+2015,Female,All ages (excluding under 1),Asthma and status asthmaticus,J45 to J46,938,3.2,81,2,4,14.8,NA
+2015,Female,All ages (excluding under 1),Gastric and duodenal ulcer,K25 to K27,891,3.1,81,1,2,8.2,NA
+2015,Female,All ages (excluding under 1),Diseases of the liver,K70 to K77,3106,10.7,62,24,45,172.4,NA
+2015,Female,All ages (excluding under 1),Land transport accidents,V01 to V09,416,1.4,54,7,10,37.7,NA
+2015,Female,All ages (excluding under 1),Accidental poisoning by and exposure to noxious substances,X40 to X49,859,3,46,17,25,94,NA
+2015,Female,All ages (excluding under 1),Intentional self-harm,X60 to X84,988,3.4,50,17,26,98.1,NA
+2015,Female,All ages (excluding under 1),Intentional self-harm; and event of undetermined intent,"X60 to X84, Y10 to Y34",1302,4.5,50,23,34,129.2,NA
+2015,Female,All ages (excluding under 1),COVID-19,"U07.1 to U07.2, U10.9",NA,NA,NA,NA,NA,NA,NA

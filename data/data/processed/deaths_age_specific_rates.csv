@@ -1,0 +1,601 @@
+year,sex,age_group,rate,lower_ci,upper_ci,age_band
+2024,Both Sexes,Under 1,4.3,4.1,4.5,Neonates
+2024,Both Sexes,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2024,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2024,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2024,Both Sexes,15 to 19,0.2,0.2,0.3,Young Adults
+2024,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2024,Both Sexes,25 to 29,0.4,0.4,0.4,Young Adults
+2024,Both Sexes,30 to 34,0.6,0.6,0.6,Young Adults
+2024,Both Sexes,35 to 39,1,0.9,1,Young Adults
+2024,Both Sexes,40 to 44,1.4,1.4,1.5,Young Adults
+2024,Both Sexes,45 to 49,2.2,2.1,2.2,Middle Aged
+2024,Both Sexes,50 to 54,3.4,3.3,3.4,Middle Aged
+2024,Both Sexes,55 to 59,5,4.9,5,Middle Aged
+2024,Both Sexes,60 to 64,7.3,7.2,7.3,Middle Aged
+2024,Both Sexes,65 to 69,11.6,11.5,11.7,Older Adults
+2024,Both Sexes,70 to 74,18.7,18.6,18.9,Older Adults
+2024,Both Sexes,75 to 79,30.4,30.2,30.6,Seniors
+2024,Both Sexes,80 to 84,54.8,54.5,55.2,Seniors
+2024,Both Sexes,85 to 89,100.9,100.3,101.6,Elderly
+2024,Both Sexes,90 and over,216.2,215,217.4,Elderly
+2024,Male,Under 1,4.7,4.5,4.9,Neonates
+2024,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2024,Male,5 to 9,0.1,0.1,0.1,Children
+2024,Male,10 to 14,0.1,0.1,0.1,Children
+2024,Male,15 to 19,0.3,0.3,0.3,Young Adults
+2024,Male,20 to 24,0.5,0.5,0.5,Young Adults
+2024,Male,25 to 29,0.6,0.6,0.6,Young Adults
+2024,Male,30 to 34,0.8,0.8,0.8,Young Adults
+2024,Male,35 to 39,1.2,1.2,1.3,Young Adults
+2024,Male,40 to 44,1.8,1.8,1.9,Young Adults
+2024,Male,45 to 49,2.7,2.6,2.8,Middle Aged
+2024,Male,50 to 54,4.1,4,4.2,Middle Aged
+2024,Male,55 to 59,6.1,6,6.2,Middle Aged
+2024,Male,60 to 64,8.8,8.7,9,Middle Aged
+2024,Male,65 to 69,14,13.9,14.2,Older Adults
+2024,Male,70 to 74,23,22.8,23.3,Older Adults
+2024,Male,75 to 79,36.3,35.9,36.6,Seniors
+2024,Male,80 to 84,64.5,63.9,65.1,Seniors
+2024,Male,85 to 89,117.8,116.7,118.8,Elderly
+2024,Male,90 and over,237.1,234.9,239.3,Elderly
+2024,Female,Under 1,3.9,3.7,4.1,Neonates
+2024,Female,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2024,Female,5 to 9,0.1,0.1,0.1,Children
+2024,Female,10 to 14,0.1,0.1,0.1,Children
+2024,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2024,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2024,Female,25 to 29,0.3,0.2,0.3,Young Adults
+2024,Female,30 to 34,0.4,0.4,0.4,Young Adults
+2024,Female,35 to 39,0.7,0.7,0.7,Young Adults
+2024,Female,40 to 44,1.1,1,1.1,Young Adults
+2024,Female,45 to 49,1.6,1.6,1.7,Middle Aged
+2024,Female,50 to 54,2.6,2.5,2.7,Middle Aged
+2024,Female,55 to 59,3.8,3.8,3.9,Middle Aged
+2024,Female,60 to 64,5.7,5.6,5.9,Middle Aged
+2024,Female,65 to 69,9.3,9.1,9.4,Older Adults
+2024,Female,70 to 74,14.9,14.7,15.1,Older Adults
+2024,Female,75 to 79,25.2,25,25.5,Seniors
+2024,Female,80 to 84,47.1,46.7,47.5,Seniors
+2024,Female,85 to 89,89.2,88.4,90,Elderly
+2024,Female,90 and over,205.7,204.2,207.1,Elderly
+2023,Both Sexes,Under 1,4.2,4.1,4.4,Neonates
+2023,Both Sexes,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2023,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2023,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2023,Both Sexes,15 to 19,0.3,0.2,0.3,Young Adults
+2023,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2023,Both Sexes,25 to 29,0.4,0.4,0.5,Young Adults
+2023,Both Sexes,30 to 34,0.6,0.6,0.7,Young Adults
+2023,Both Sexes,35 to 39,1,1,1,Young Adults
+2023,Both Sexes,40 to 44,1.5,1.5,1.5,Young Adults
+2023,Both Sexes,45 to 49,2.2,2.2,2.3,Middle Aged
+2023,Both Sexes,50 to 54,3.4,3.4,3.5,Middle Aged
+2023,Both Sexes,55 to 59,5,4.9,5.1,Middle Aged
+2023,Both Sexes,60 to 64,7.6,7.6,7.7,Middle Aged
+2023,Both Sexes,65 to 69,12.1,12,12.2,Older Adults
+2023,Both Sexes,70 to 74,19.3,19.1,19.5,Older Adults
+2023,Both Sexes,75 to 79,31.5,31.2,31.7,Seniors
+2023,Both Sexes,80 to 84,58.3,57.9,58.6,Seniors
+2023,Both Sexes,85 to 89,105.9,105.3,106.5,Elderly
+2023,Both Sexes,90 and over,226.1,224.8,227.3,Elderly
+2023,Male,Under 1,4.8,4.5,5,Neonates
+2023,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2023,Male,5 to 9,0.1,0.1,0.1,Children
+2023,Male,10 to 14,0.1,0.1,0.1,Children
+2023,Male,15 to 19,0.3,0.3,0.4,Young Adults
+2023,Male,20 to 24,0.5,0.5,0.5,Young Adults
+2023,Male,25 to 29,0.6,0.6,0.6,Young Adults
+2023,Male,30 to 34,0.9,0.8,0.9,Young Adults
+2023,Male,35 to 39,1.3,1.2,1.3,Young Adults
+2023,Male,40 to 44,1.9,1.9,2,Young Adults
+2023,Male,45 to 49,2.8,2.7,2.9,Middle Aged
+2023,Male,50 to 54,4.3,4.2,4.4,Middle Aged
+2023,Male,55 to 59,6.2,6,6.3,Middle Aged
+2023,Male,60 to 64,9.4,9.2,9.5,Middle Aged
+2023,Male,65 to 69,14.7,14.5,14.9,Older Adults
+2023,Male,70 to 74,23.6,23.3,23.9,Older Adults
+2023,Male,75 to 79,37.6,37.2,37.9,Seniors
+2023,Male,80 to 84,68.7,68.1,69.3,Seniors
+2023,Male,85 to 89,123,122,124.1,Elderly
+2023,Male,90 and over,248.1,245.8,250.4,Elderly
+2023,Female,Under 1,3.7,3.5,3.9,Neonates
+2023,Female,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2023,Female,5 to 9,0.1,0,0.1,Children
+2023,Female,10 to 14,0.1,0.1,0.1,Children
+2023,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2023,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2023,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2023,Female,30 to 34,0.4,0.4,0.5,Young Adults
+2023,Female,35 to 39,0.7,0.7,0.7,Young Adults
+2023,Female,40 to 44,1.1,1.1,1.2,Young Adults
+2023,Female,45 to 49,1.7,1.7,1.8,Middle Aged
+2023,Female,50 to 54,2.6,2.5,2.6,Middle Aged
+2023,Female,55 to 59,3.9,3.8,4,Middle Aged
+2023,Female,60 to 64,6,5.9,6.1,Middle Aged
+2023,Female,65 to 69,9.7,9.5,9.8,Older Adults
+2023,Female,70 to 74,15.4,15.2,15.6,Older Adults
+2023,Female,75 to 79,26.1,25.8,26.4,Seniors
+2023,Female,80 to 84,50,49.5,50.5,Seniors
+2023,Female,85 to 89,94.1,93.3,94.8,Elderly
+2023,Female,90 and over,215.1,213.6,216.6,Elderly
+2022,Both Sexes,Under 1,4,3.8,4.1,Neonates
+2022,Both Sexes,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2022,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2022,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2022,Both Sexes,15 to 19,0.2,0.2,0.3,Young Adults
+2022,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2022,Both Sexes,25 to 29,0.5,0.4,0.5,Young Adults
+2022,Both Sexes,30 to 34,0.7,0.6,0.7,Young Adults
+2022,Both Sexes,35 to 39,1,0.9,1,Young Adults
+2022,Both Sexes,40 to 44,1.4,1.4,1.5,Young Adults
+2022,Both Sexes,45 to 49,2.3,2.2,2.3,Middle Aged
+2022,Both Sexes,50 to 54,3.4,3.4,3.5,Middle Aged
+2022,Both Sexes,55 to 59,5,4.9,5.1,Middle Aged
+2022,Both Sexes,60 to 64,7.6,7.5,7.7,Middle Aged
+2022,Both Sexes,65 to 69,12.2,12.1,12.4,Older Adults
+2022,Both Sexes,70 to 74,19.5,19.3,19.6,Older Adults
+2022,Both Sexes,75 to 79,32.1,31.8,32.3,Seniors
+2022,Both Sexes,80 to 84,59.2,58.8,59.6,Seniors
+2022,Both Sexes,85 to 89,106.9,106.3,107.6,Elderly
+2022,Both Sexes,90 and over,226.8,225.5,228,Elderly
+2022,Male,Under 1,4.5,4.2,4.7,Neonates
+2022,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2022,Male,5 to 9,0.1,0.1,0.1,Children
+2022,Male,10 to 14,0.1,0.1,0.1,Children
+2022,Male,15 to 19,0.3,0.3,0.3,Young Adults
+2022,Male,20 to 24,0.5,0.5,0.5,Young Adults
+2022,Male,25 to 29,0.6,0.6,0.7,Young Adults
+2022,Male,30 to 34,0.9,0.8,0.9,Young Adults
+2022,Male,35 to 39,1.2,1.2,1.3,Young Adults
+2022,Male,40 to 44,1.8,1.7,1.9,Young Adults
+2022,Male,45 to 49,2.8,2.7,2.9,Middle Aged
+2022,Male,50 to 54,4.2,4.1,4.3,Middle Aged
+2022,Male,55 to 59,6.1,6,6.2,Middle Aged
+2022,Male,60 to 64,9.2,9.1,9.4,Middle Aged
+2022,Male,65 to 69,14.9,14.7,15.1,Older Adults
+2022,Male,70 to 74,23.7,23.4,24,Older Adults
+2022,Male,75 to 79,38.2,37.9,38.6,Seniors
+2022,Male,80 to 84,69.7,69.1,70.3,Seniors
+2022,Male,85 to 89,124.4,123.3,125.6,Elderly
+2022,Male,90 and over,251.1,248.8,253.4,Elderly
+2022,Female,Under 1,3.5,3.3,3.7,Neonates
+2022,Female,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2022,Female,5 to 9,0.1,0.1,0.1,Children
+2022,Female,10 to 14,0.1,0.1,0.1,Children
+2022,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2022,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2022,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2022,Female,30 to 34,0.4,0.4,0.5,Young Adults
+2022,Female,35 to 39,0.7,0.7,0.7,Young Adults
+2022,Female,40 to 44,1.1,1.1,1.2,Young Adults
+2022,Female,45 to 49,1.7,1.7,1.8,Middle Aged
+2022,Female,50 to 54,2.7,2.6,2.7,Middle Aged
+2022,Female,55 to 59,3.9,3.8,4,Middle Aged
+2022,Female,60 to 64,6,5.9,6.1,Middle Aged
+2022,Female,65 to 69,9.7,9.6,9.9,Older Adults
+2022,Female,70 to 74,15.6,15.4,15.8,Older Adults
+2022,Female,75 to 79,26.7,26.4,27,Seniors
+2022,Female,80 to 84,50.9,50.5,51.4,Seniors
+2022,Female,85 to 89,94.9,94.1,95.7,Elderly
+2022,Female,90 and over,214.9,213.4,216.4,Elderly
+2021,Both Sexes,Under 1,4,3.8,4.2,Neonates
+2021,Both Sexes,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2021,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2021,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2021,Both Sexes,15 to 19,0.2,0.2,0.3,Young Adults
+2021,Both Sexes,20 to 24,0.4,0.4,0.4,Young Adults
+2021,Both Sexes,25 to 29,0.5,0.4,0.5,Young Adults
+2021,Both Sexes,30 to 34,0.7,0.6,0.7,Young Adults
+2021,Both Sexes,35 to 39,1,1,1.1,Young Adults
+2021,Both Sexes,40 to 44,1.6,1.5,1.6,Young Adults
+2021,Both Sexes,45 to 49,2.5,2.4,2.5,Middle Aged
+2021,Both Sexes,50 to 54,3.6,3.6,3.7,Middle Aged
+2021,Both Sexes,55 to 59,5.3,5.3,5.4,Middle Aged
+2021,Both Sexes,60 to 64,8.4,8.3,8.5,Middle Aged
+2021,Both Sexes,65 to 69,13,12.9,13.1,Older Adults
+2021,Both Sexes,70 to 74,20.1,19.9,20.3,Older Adults
+2021,Both Sexes,75 to 79,34,33.7,34.2,Seniors
+2021,Both Sexes,80 to 84,61.2,60.8,61.6,Seniors
+2021,Both Sexes,85 to 89,109,108.3,109.7,Elderly
+2021,Both Sexes,90 and over,227.9,226.7,229.2,Elderly
+2021,Male,Under 1,4.4,4.2,4.6,Neonates
+2021,Male,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2021,Male,5 to 9,0.1,0.1,0.1,Children
+2021,Male,10 to 14,0.1,0.1,0.1,Children
+2021,Male,15 to 19,0.3,0.3,0.4,Young Adults
+2021,Male,20 to 24,0.5,0.5,0.6,Young Adults
+2021,Male,25 to 29,0.7,0.6,0.7,Young Adults
+2021,Male,30 to 34,0.9,0.8,0.9,Young Adults
+2021,Male,35 to 39,1.4,1.3,1.4,Young Adults
+2021,Male,40 to 44,2,1.9,2.1,Young Adults
+2021,Male,45 to 49,3.1,3,3.1,Middle Aged
+2021,Male,50 to 54,4.5,4.4,4.6,Middle Aged
+2021,Male,55 to 59,6.6,6.5,6.7,Middle Aged
+2021,Male,60 to 64,10.3,10.2,10.5,Middle Aged
+2021,Male,65 to 69,16,15.7,16.2,Older Adults
+2021,Male,70 to 74,24.4,24.1,24.7,Older Adults
+2021,Male,75 to 79,40.9,40.5,41.3,Seniors
+2021,Male,80 to 84,72.8,72.1,73.4,Seniors
+2021,Male,85 to 89,126.4,125.3,127.5,Elderly
+2021,Male,90 and over,250.1,247.7,252.4,Elderly
+2021,Female,Under 1,3.6,3.3,3.8,Neonates
+2021,Female,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2021,Female,5 to 9,0.1,0,0.1,Children
+2021,Female,10 to 14,0.1,0.1,0.1,Children
+2021,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2021,Female,20 to 24,0.2,0.2,0.3,Young Adults
+2021,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2021,Female,30 to 34,0.5,0.4,0.5,Young Adults
+2021,Female,35 to 39,0.8,0.7,0.8,Young Adults
+2021,Female,40 to 44,1.1,1.1,1.2,Young Adults
+2021,Female,45 to 49,1.9,1.8,1.9,Middle Aged
+2021,Female,50 to 54,2.7,2.7,2.8,Middle Aged
+2021,Female,55 to 59,4.2,4.1,4.2,Middle Aged
+2021,Female,60 to 64,6.5,6.4,6.7,Middle Aged
+2021,Female,65 to 69,10.2,10,10.4,Older Adults
+2021,Female,70 to 74,16.2,16,16.4,Older Adults
+2021,Female,75 to 79,27.9,27.6,28.2,Seniors
+2021,Female,80 to 84,52.1,51.6,52.6,Seniors
+2021,Female,85 to 89,97.2,96.3,98,Elderly
+2021,Female,90 and over,217.4,215.8,218.9,Elderly
+2020,Both Sexes,Under 1,3.9,3.7,4,Neonates
+2020,Both Sexes,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2020,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2020,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2020,Both Sexes,15 to 19,0.2,0.2,0.2,Young Adults
+2020,Both Sexes,20 to 24,0.3,0.3,0.3,Young Adults
+2020,Both Sexes,25 to 29,0.4,0.4,0.5,Young Adults
+2020,Both Sexes,30 to 34,0.6,0.6,0.6,Young Adults
+2020,Both Sexes,35 to 39,1,1,1,Young Adults
+2020,Both Sexes,40 to 44,1.5,1.4,1.5,Young Adults
+2020,Both Sexes,45 to 49,2.3,2.3,2.4,Middle Aged
+2020,Both Sexes,50 to 54,3.5,3.4,3.6,Middle Aged
+2020,Both Sexes,55 to 59,5.2,5.2,5.3,Middle Aged
+2020,Both Sexes,60 to 64,8.3,8.2,8.4,Middle Aged
+2020,Both Sexes,65 to 69,13,12.9,13.2,Older Adults
+2020,Both Sexes,70 to 74,20.6,20.4,20.7,Older Adults
+2020,Both Sexes,75 to 79,36,35.8,36.3,Seniors
+2020,Both Sexes,80 to 84,65.2,64.8,65.6,Seniors
+2020,Both Sexes,85 to 89,119.8,119.1,120.5,Elderly
+2020,Both Sexes,90 and over,247.4,246,248.7,Elderly
+2020,Male,Under 1,4.2,4,4.5,Neonates
+2020,Male,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2020,Male,5 to 9,0.1,0.1,0.1,Children
+2020,Male,10 to 14,0.1,0.1,0.1,Children
+2020,Male,15 to 19,0.3,0.2,0.3,Young Adults
+2020,Male,20 to 24,0.5,0.4,0.5,Young Adults
+2020,Male,25 to 29,0.6,0.6,0.6,Young Adults
+2020,Male,30 to 34,0.8,0.8,0.9,Young Adults
+2020,Male,35 to 39,1.3,1.2,1.3,Young Adults
+2020,Male,40 to 44,1.9,1.8,1.9,Young Adults
+2020,Male,45 to 49,2.9,2.8,3,Middle Aged
+2020,Male,50 to 54,4.3,4.3,4.4,Middle Aged
+2020,Male,55 to 59,6.5,6.4,6.6,Middle Aged
+2020,Male,60 to 64,10.2,10,10.3,Middle Aged
+2020,Male,65 to 69,16.2,15.9,16.4,Older Adults
+2020,Male,70 to 74,25.2,24.9,25.4,Older Adults
+2020,Male,75 to 79,43.6,43.2,44,Seniors
+2020,Male,80 to 84,78.2,77.5,78.8,Seniors
+2020,Male,85 to 89,140.7,139.5,141.9,Elderly
+2020,Male,90 and over,272.1,269.6,274.6,Elderly
+2020,Female,Under 1,3.5,3.3,3.7,Neonates
+2020,Female,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2020,Female,5 to 9,0,0,0.1,Children
+2020,Female,10 to 14,0.1,0.1,0.1,Children
+2020,Female,15 to 19,0.1,0.1,0.2,Young Adults
+2020,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2020,Female,25 to 29,0.3,0.2,0.3,Young Adults
+2020,Female,30 to 34,0.4,0.4,0.5,Young Adults
+2020,Female,35 to 39,0.7,0.7,0.8,Young Adults
+2020,Female,40 to 44,1.1,1.1,1.2,Young Adults
+2020,Female,45 to 49,1.8,1.7,1.9,Middle Aged
+2020,Female,50 to 54,2.7,2.6,2.8,Middle Aged
+2020,Female,55 to 59,4,3.9,4.1,Middle Aged
+2020,Female,60 to 64,6.5,6.4,6.6,Middle Aged
+2020,Female,65 to 69,10.1,9.9,10.2,Older Adults
+2020,Female,70 to 74,16.4,16.2,16.6,Older Adults
+2020,Female,75 to 79,29.4,29.1,29.7,Seniors
+2020,Female,80 to 84,55.1,54.6,55.6,Seniors
+2020,Female,85 to 89,105.8,104.9,106.6,Elderly
+2020,Female,90 and over,235.7,234.1,237.3,Elderly
+2019,Both Sexes,Under 1,4,3.8,4.1,Neonates
+2019,Both Sexes,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2019,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2019,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2019,Both Sexes,15 to 19,0.2,0.2,0.2,Young Adults
+2019,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2019,Both Sexes,25 to 29,0.5,0.4,0.5,Young Adults
+2019,Both Sexes,30 to 34,0.6,0.6,0.6,Young Adults
+2019,Both Sexes,35 to 39,0.9,0.9,0.9,Young Adults
+2019,Both Sexes,40 to 44,1.3,1.3,1.3,Young Adults
+2019,Both Sexes,45 to 49,2.1,2,2.1,Middle Aged
+2019,Both Sexes,50 to 54,3.1,3,3.2,Middle Aged
+2019,Both Sexes,55 to 59,4.7,4.6,4.7,Middle Aged
+2019,Both Sexes,60 to 64,7.4,7.3,7.5,Middle Aged
+2019,Both Sexes,65 to 69,11.6,11.5,11.8,Older Adults
+2019,Both Sexes,70 to 74,18.3,18.2,18.5,Older Adults
+2019,Both Sexes,75 to 79,31.6,31.3,31.8,Seniors
+2019,Both Sexes,80 to 84,56.9,56.5,57.2,Seniors
+2019,Both Sexes,85 to 89,104.9,104.2,105.6,Elderly
+2019,Both Sexes,90 and over,214.1,212.8,215.3,Elderly
+2019,Male,Under 1,4.4,4.1,4.6,Neonates
+2019,Male,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2019,Male,5 to 9,0.1,0.1,0.1,Children
+2019,Male,10 to 14,0.1,0.1,0.1,Children
+2019,Male,15 to 19,0.3,0.2,0.3,Young Adults
+2019,Male,20 to 24,0.5,0.5,0.6,Young Adults
+2019,Male,25 to 29,0.7,0.6,0.7,Young Adults
+2019,Male,30 to 34,0.8,0.8,0.9,Young Adults
+2019,Male,35 to 39,1.2,1.1,1.2,Young Adults
+2019,Male,40 to 44,1.6,1.6,1.7,Young Adults
+2019,Male,45 to 49,2.6,2.5,2.6,Middle Aged
+2019,Male,50 to 54,3.8,3.7,3.9,Middle Aged
+2019,Male,55 to 59,5.7,5.6,5.8,Middle Aged
+2019,Male,60 to 64,8.9,8.7,9,Middle Aged
+2019,Male,65 to 69,14.2,14.1,14.4,Older Adults
+2019,Male,70 to 74,22.1,21.8,22.3,Older Adults
+2019,Male,75 to 79,37.8,37.4,38.2,Seniors
+2019,Male,80 to 84,67.1,66.5,67.8,Seniors
+2019,Male,85 to 89,121.7,120.5,122.8,Elderly
+2019,Male,90 and over,233.5,231.2,235.8,Elderly
+2019,Female,Under 1,3.6,3.4,3.8,Neonates
+2019,Female,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2019,Female,5 to 9,0.1,0.1,0.1,Children
+2019,Female,10 to 14,0.1,0.1,0.1,Children
+2019,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2019,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2019,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2019,Female,30 to 34,0.4,0.4,0.4,Young Adults
+2019,Female,35 to 39,0.7,0.6,0.7,Young Adults
+2019,Female,40 to 44,1,1,1.1,Young Adults
+2019,Female,45 to 49,1.6,1.6,1.7,Middle Aged
+2019,Female,50 to 54,2.4,2.4,2.5,Middle Aged
+2019,Female,55 to 59,3.7,3.6,3.8,Middle Aged
+2019,Female,60 to 64,5.9,5.8,6,Middle Aged
+2019,Female,65 to 69,9.2,9,9.3,Older Adults
+2019,Female,70 to 74,14.9,14.7,15.1,Older Adults
+2019,Female,75 to 79,26.2,25.9,26.5,Seniors
+2019,Female,80 to 84,48.8,48.3,49.3,Seniors
+2019,Female,85 to 89,93.8,93,94.6,Elderly
+2019,Female,90 and over,205,203.5,206.5,Elderly
+2018,Both Sexes,Under 1,3.9,3.8,4.1,Neonates
+2018,Both Sexes,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2018,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2018,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2018,Both Sexes,15 to 19,0.3,0.2,0.3,Young Adults
+2018,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2018,Both Sexes,25 to 29,0.5,0.4,0.5,Young Adults
+2018,Both Sexes,30 to 34,0.6,0.6,0.7,Young Adults
+2018,Both Sexes,35 to 39,0.9,0.9,0.9,Young Adults
+2018,Both Sexes,40 to 44,1.4,1.4,1.4,Young Adults
+2018,Both Sexes,45 to 49,2.1,2.1,2.2,Middle Aged
+2018,Both Sexes,50 to 54,3.1,3.1,3.2,Middle Aged
+2018,Both Sexes,55 to 59,4.8,4.7,4.9,Middle Aged
+2018,Both Sexes,60 to 64,7.6,7.5,7.7,Middle Aged
+2018,Both Sexes,65 to 69,12,11.9,12.2,Older Adults
+2018,Both Sexes,70 to 74,18.8,18.7,19,Older Adults
+2018,Both Sexes,75 to 79,33.1,32.9,33.4,Seniors
+2018,Both Sexes,80 to 84,58.7,58.3,59.1,Seniors
+2018,Both Sexes,85 to 89,110.2,109.5,110.9,Elderly
+2018,Both Sexes,90 and over,226.4,225.1,227.7,Elderly
+2018,Male,Under 1,4.3,4,4.5,Neonates
+2018,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2018,Male,5 to 9,0.1,0.1,0.1,Children
+2018,Male,10 to 14,0.1,0.1,0.1,Children
+2018,Male,15 to 19,0.3,0.3,0.4,Young Adults
+2018,Male,20 to 24,0.5,0.5,0.6,Young Adults
+2018,Male,25 to 29,0.6,0.6,0.7,Young Adults
+2018,Male,30 to 34,0.8,0.8,0.9,Young Adults
+2018,Male,35 to 39,1.2,1.1,1.2,Young Adults
+2018,Male,40 to 44,1.8,1.7,1.8,Young Adults
+2018,Male,45 to 49,2.6,2.6,2.7,Middle Aged
+2018,Male,50 to 54,3.8,3.8,3.9,Middle Aged
+2018,Male,55 to 59,5.7,5.6,5.8,Middle Aged
+2018,Male,60 to 64,9.1,8.9,9.2,Middle Aged
+2018,Male,65 to 69,14.7,14.5,14.9,Older Adults
+2018,Male,70 to 74,22.7,22.5,23,Older Adults
+2018,Male,75 to 79,39.6,39.1,40,Seniors
+2018,Male,80 to 84,69.1,68.5,69.7,Seniors
+2018,Male,85 to 89,127.4,126.3,128.6,Elderly
+2018,Male,90 and over,242.7,240.3,245.1,Elderly
+2018,Female,Under 1,3.5,3.3,3.7,Neonates
+2018,Female,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2018,Female,5 to 9,0.1,0.1,0.1,Children
+2018,Female,10 to 14,0.1,0.1,0.1,Children
+2018,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2018,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2018,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2018,Female,30 to 34,0.4,0.4,0.5,Young Adults
+2018,Female,35 to 39,0.7,0.6,0.7,Young Adults
+2018,Female,40 to 44,1,1,1.1,Young Adults
+2018,Female,45 to 49,1.7,1.6,1.7,Middle Aged
+2018,Female,50 to 54,2.4,2.3,2.5,Middle Aged
+2018,Female,55 to 59,3.9,3.8,4,Middle Aged
+2018,Female,60 to 64,6.1,6,6.2,Middle Aged
+2018,Female,65 to 69,9.5,9.4,9.7,Older Adults
+2018,Female,70 to 74,15.3,15.1,15.5,Older Adults
+2018,Female,75 to 79,27.6,27.3,27.9,Seniors
+2018,Female,80 to 84,50.6,50.1,51.1,Seniors
+2018,Female,85 to 89,99.1,98.2,99.9,Elderly
+2018,Female,90 and over,219,217.5,220.6,Elderly
+2017,Both Sexes,Under 1,4,3.8,4.1,Neonates
+2017,Both Sexes,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2017,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2017,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2017,Both Sexes,15 to 19,0.2,0.2,0.2,Young Adults
+2017,Both Sexes,20 to 24,0.3,0.3,0.3,Young Adults
+2017,Both Sexes,25 to 29,0.4,0.4,0.4,Young Adults
+2017,Both Sexes,30 to 34,0.6,0.6,0.6,Young Adults
+2017,Both Sexes,35 to 39,0.9,0.9,0.9,Young Adults
+2017,Both Sexes,40 to 44,1.4,1.3,1.4,Young Adults
+2017,Both Sexes,45 to 49,2.1,2,2.1,Middle Aged
+2017,Both Sexes,50 to 54,3.1,3,3.1,Middle Aged
+2017,Both Sexes,55 to 59,4.7,4.6,4.8,Middle Aged
+2017,Both Sexes,60 to 64,7.6,7.5,7.7,Middle Aged
+2017,Both Sexes,65 to 69,12,11.8,12.1,Older Adults
+2017,Both Sexes,70 to 74,18.8,18.7,19,Older Adults
+2017,Both Sexes,75 to 79,33.5,33.3,33.8,Seniors
+2017,Both Sexes,80 to 84,59.4,59,59.7,Seniors
+2017,Both Sexes,85 to 89,109.4,108.7,110.1,Elderly
+2017,Both Sexes,90 and over,224.8,223.5,226.1,Elderly
+2017,Male,Under 1,4.4,4.1,4.6,Neonates
+2017,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2017,Male,5 to 9,0.1,0.1,0.1,Children
+2017,Male,10 to 14,0.1,0.1,0.1,Children
+2017,Male,15 to 19,0.3,0.3,0.3,Young Adults
+2017,Male,20 to 24,0.5,0.4,0.5,Young Adults
+2017,Male,25 to 29,0.6,0.6,0.6,Young Adults
+2017,Male,30 to 34,0.8,0.7,0.8,Young Adults
+2017,Male,35 to 39,1.1,1.1,1.2,Young Adults
+2017,Male,40 to 44,1.7,1.6,1.8,Young Adults
+2017,Male,45 to 49,2.6,2.5,2.6,Middle Aged
+2017,Male,50 to 54,3.7,3.6,3.8,Middle Aged
+2017,Male,55 to 59,5.7,5.6,5.8,Middle Aged
+2017,Male,60 to 64,9.3,9.1,9.4,Middle Aged
+2017,Male,65 to 69,14.6,14.4,14.8,Older Adults
+2017,Male,70 to 74,22.8,22.6,23.1,Older Adults
+2017,Male,75 to 79,40.1,39.7,40.5,Seniors
+2017,Male,80 to 84,70.1,69.4,70.7,Seniors
+2017,Male,85 to 89,126.2,125.1,127.4,Elderly
+2017,Male,90 and over,242.8,240.3,245.2,Elderly
+2017,Female,Under 1,3.6,3.4,3.8,Neonates
+2017,Female,1 to 4,0.1,0.1,0.1,Infants & Toddlers
+2017,Female,5 to 9,0.1,0.1,0.1,Children
+2017,Female,10 to 14,0.1,0.1,0.1,Children
+2017,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2017,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2017,Female,25 to 29,0.3,0.2,0.3,Young Adults
+2017,Female,30 to 34,0.4,0.4,0.4,Young Adults
+2017,Female,35 to 39,0.7,0.6,0.7,Young Adults
+2017,Female,40 to 44,1,1,1.1,Young Adults
+2017,Female,45 to 49,1.6,1.5,1.6,Middle Aged
+2017,Female,50 to 54,2.5,2.4,2.5,Middle Aged
+2017,Female,55 to 59,3.7,3.6,3.8,Middle Aged
+2017,Female,60 to 64,6.1,5.9,6.2,Middle Aged
+2017,Female,65 to 69,9.5,9.4,9.7,Older Adults
+2017,Female,70 to 74,15.2,15,15.4,Older Adults
+2017,Female,75 to 79,27.9,27.6,28.2,Seniors
+2017,Female,80 to 84,51,50.6,51.5,Seniors
+2017,Female,85 to 89,98.7,97.9,99.5,Elderly
+2017,Female,90 and over,216.8,215.3,218.4,Elderly
+2016,Both Sexes,Under 1,3.9,3.7,4,Neonates
+2016,Both Sexes,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2016,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2016,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2016,Both Sexes,15 to 19,0.2,0.2,0.2,Young Adults
+2016,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2016,Both Sexes,25 to 29,0.5,0.4,0.5,Young Adults
+2016,Both Sexes,30 to 34,0.6,0.6,0.7,Young Adults
+2016,Both Sexes,35 to 39,0.9,0.8,0.9,Young Adults
+2016,Both Sexes,40 to 44,1.4,1.4,1.4,Young Adults
+2016,Both Sexes,45 to 49,2.1,2,2.1,Middle Aged
+2016,Both Sexes,50 to 54,3.1,3,3.1,Middle Aged
+2016,Both Sexes,55 to 59,4.9,4.8,4.9,Middle Aged
+2016,Both Sexes,60 to 64,7.8,7.7,7.9,Middle Aged
+2016,Both Sexes,65 to 69,12,11.9,12.1,Older Adults
+2016,Both Sexes,70 to 74,19.4,19.2,19.6,Older Adults
+2016,Both Sexes,75 to 79,33.8,33.5,34,Seniors
+2016,Both Sexes,80 to 84,59.5,59.1,59.9,Seniors
+2016,Both Sexes,85 to 89,109.2,108.5,109.9,Elderly
+2016,Both Sexes,90 and over,217.4,216.1,218.7,Elderly
+2016,Male,Under 1,4.2,4,4.4,Neonates
+2016,Male,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2016,Male,5 to 9,0.1,0.1,0.1,Children
+2016,Male,10 to 14,0.1,0.1,0.1,Children
+2016,Male,15 to 19,0.3,0.3,0.3,Young Adults
+2016,Male,20 to 24,0.5,0.5,0.5,Young Adults
+2016,Male,25 to 29,0.6,0.6,0.7,Young Adults
+2016,Male,30 to 34,0.8,0.8,0.9,Young Adults
+2016,Male,35 to 39,1.1,1.1,1.2,Young Adults
+2016,Male,40 to 44,1.8,1.7,1.8,Young Adults
+2016,Male,45 to 49,2.5,2.5,2.6,Middle Aged
+2016,Male,50 to 54,3.7,3.6,3.8,Middle Aged
+2016,Male,55 to 59,5.7,5.6,5.9,Middle Aged
+2016,Male,60 to 64,9.4,9.3,9.6,Middle Aged
+2016,Male,65 to 69,14.6,14.4,14.7,Older Adults
+2016,Male,70 to 74,23.4,23.1,23.6,Older Adults
+2016,Male,75 to 79,40.6,40.2,41.1,Seniors
+2016,Male,80 to 84,70.3,69.6,71,Seniors
+2016,Male,85 to 89,126.3,125.1,127.5,Elderly
+2016,Male,90 and over,237.1,234.6,239.5,Elderly
+2016,Female,Under 1,3.6,3.4,3.8,Neonates
+2016,Female,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2016,Female,5 to 9,0.1,0,0.1,Children
+2016,Female,10 to 14,0.1,0.1,0.1,Children
+2016,Female,15 to 19,0.2,0.1,0.2,Young Adults
+2016,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2016,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2016,Female,30 to 34,0.4,0.4,0.5,Young Adults
+2016,Female,35 to 39,0.6,0.6,0.7,Young Adults
+2016,Female,40 to 44,1,1,1.1,Young Adults
+2016,Female,45 to 49,1.6,1.6,1.7,Middle Aged
+2016,Female,50 to 54,2.5,2.4,2.6,Middle Aged
+2016,Female,55 to 59,4,3.9,4.1,Middle Aged
+2016,Female,60 to 64,6.2,6.1,6.3,Middle Aged
+2016,Female,65 to 69,9.6,9.5,9.8,Older Adults
+2016,Female,70 to 74,15.8,15.6,16,Older Adults
+2016,Female,75 to 79,27.9,27.5,28.2,Seniors
+2016,Female,80 to 84,51.2,50.8,51.7,Seniors
+2016,Female,85 to 89,98.5,97.7,99.4,Elderly
+2016,Female,90 and over,208.9,207.4,210.4,Elderly
+2015,Both Sexes,Under 1,3.9,3.8,4,Neonates
+2015,Both Sexes,1 to 4,0.2,0.1,0.2,Infants & Toddlers
+2015,Both Sexes,5 to 9,0.1,0.1,0.1,Children
+2015,Both Sexes,10 to 14,0.1,0.1,0.1,Children
+2015,Both Sexes,15 to 19,0.2,0.2,0.3,Young Adults
+2015,Both Sexes,20 to 24,0.4,0.3,0.4,Young Adults
+2015,Both Sexes,25 to 29,0.4,0.4,0.5,Young Adults
+2015,Both Sexes,30 to 34,0.6,0.6,0.6,Young Adults
+2015,Both Sexes,35 to 39,0.9,0.9,0.9,Young Adults
+2015,Both Sexes,40 to 44,1.4,1.3,1.4,Young Adults
+2015,Both Sexes,45 to 49,2,2,2.1,Middle Aged
+2015,Both Sexes,50 to 54,3.1,3,3.1,Middle Aged
+2015,Both Sexes,55 to 59,4.8,4.7,4.9,Middle Aged
+2015,Both Sexes,60 to 64,7.8,7.7,7.9,Middle Aged
+2015,Both Sexes,65 to 69,11.9,11.8,12,Older Adults
+2015,Both Sexes,70 to 74,19.7,19.5,19.8,Older Adults
+2015,Both Sexes,75 to 79,33.9,33.7,34.2,Seniors
+2015,Both Sexes,80 to 84,62.2,61.8,62.6,Seniors
+2015,Both Sexes,85 to 89,113.4,112.7,114.1,Elderly
+2015,Both Sexes,90 and over,228.5,227.2,229.8,Elderly
+2015,Male,Under 1,4.4,4.2,4.6,Neonates
+2015,Male,1 to 4,0.2,0.2,0.2,Infants & Toddlers
+2015,Male,5 to 9,0.1,0.1,0.1,Children
+2015,Male,10 to 14,0.1,0.1,0.1,Children
+2015,Male,15 to 19,0.3,0.3,0.3,Young Adults
+2015,Male,20 to 24,0.5,0.5,0.5,Young Adults
+2015,Male,25 to 29,0.6,0.6,0.6,Young Adults
+2015,Male,30 to 34,0.8,0.8,0.8,Young Adults
+2015,Male,35 to 39,1.1,1.1,1.2,Young Adults
+2015,Male,40 to 44,1.7,1.6,1.8,Young Adults
+2015,Male,45 to 49,2.5,2.4,2.5,Middle Aged
+2015,Male,50 to 54,3.7,3.6,3.8,Middle Aged
+2015,Male,55 to 59,5.8,5.7,5.9,Middle Aged
+2015,Male,60 to 64,9.5,9.4,9.7,Middle Aged
+2015,Male,65 to 69,14.4,14.2,14.6,Older Adults
+2015,Male,70 to 74,23.7,23.4,24,Older Adults
+2015,Male,75 to 79,40.9,40.4,41.3,Seniors
+2015,Male,80 to 84,72.8,72.1,73.5,Seniors
+2015,Male,85 to 89,130.9,129.7,132.1,Elderly
+2015,Male,90 and over,247.4,244.8,249.9,Elderly
+2015,Female,Under 1,3.3,3.2,3.5,Neonates
+2015,Female,1 to 4,0.1,0.1,0.2,Infants & Toddlers
+2015,Female,5 to 9,0.1,0.1,0.1,Children
+2015,Female,10 to 14,0.1,0.1,0.1,Children
+2015,Female,15 to 19,0.2,0.2,0.2,Young Adults
+2015,Female,20 to 24,0.2,0.2,0.2,Young Adults
+2015,Female,25 to 29,0.3,0.3,0.3,Young Adults
+2015,Female,30 to 34,0.4,0.4,0.4,Young Adults
+2015,Female,35 to 39,0.7,0.6,0.7,Young Adults
+2015,Female,40 to 44,1,1,1.1,Young Adults
+2015,Female,45 to 49,1.6,1.5,1.7,Middle Aged
+2015,Female,50 to 54,2.5,2.4,2.6,Middle Aged
+2015,Female,55 to 59,3.8,3.7,3.9,Middle Aged
+2015,Female,60 to 64,6.2,6,6.3,Middle Aged
+2015,Female,65 to 69,9.5,9.4,9.7,Older Adults
+2015,Female,70 to 74,16,15.7,16.2,Older Adults
+2015,Female,75 to 79,28,27.7,28.3,Seniors
+2015,Female,80 to 84,54.1,53.6,54.6,Seniors
+2015,Female,85 to 89,102.7,101.9,103.6,Elderly
+2015,Female,90 and over,220.7,219.1,222.2,Elderly
