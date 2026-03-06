@@ -1,0 +1,10 @@
+name: dashboard
+title:
+username: os2u1c-prisca-joks
+account: os2u1c-prisca-joks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16832451
+bundleId: 11672212
+url: https://os2u1c-prisca-joks.shinyapps.io/dashboard/
+version: 1
