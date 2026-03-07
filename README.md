@@ -5,8 +5,13 @@
 **Author:** Dr Temi-Priscilla Jokotola  
 **Data Source:** Office for National Statistics (ONS) — Annual Deaths Registration  
 **Period Covered:** 2015–2024  
-**Live Dashboard I:** [R Shiny Dashboard](https://os2u1c-prisca-joks.shinyapps.io/dashboard/)
-**Live Dashboard II:** [React Dashboard](https://uk-mortality.vercel.app/)
+**Live Dashboard I:** [![R Shiny Dashboard](https://img.shields.io/badge/Streamlit-Dashboard-000435)](https://os2u1c-prisca-joks.shinyapps.io/dashboard/)
+**Live Dashboard II:** [![Vercel Dashboard](https://img.shields.io/badge/React-Dashboard-000435)](https://uk-mortality.vercel.app/)
+
+
+
+
+
 
 
 ---
